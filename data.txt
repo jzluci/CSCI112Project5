@@ -1,0 +1,822 @@
+Nonprofits{name='Animal Brigade', acronym='AB', number of promotors= 15, promotors=[Promotor{name='Linda Collins', hometown='Senatobia MS', activityPercentage=1.65}, Promotor{name='Susan Gonzalez', hometown='Memphis TN', activityPercentage=2.33}, Promotor{name='Michelle Boal', hometown='Madison MS', activityPercentage=2.95}, Promotor{name='Katie Jacobson', hometown='Arlington TX', activityPercentage=2.4}, Promotor{name='Beth Clayburn', hometown='Hendersonville NC', activityPercentage=2.3}, Promotor{name='Kathleen Richards', hometown='Guntown MS', activityPercentage=2.45}, Promotor{name='Diane Lang', hometown='Irving TX', activityPercentage=2.45}, Promotor{name='Melissa Janke', hometown='Memphis TN', activityPercentage=2.8}, Promotor{name='Tamara Wright', hometown='Newton MS', activityPercentage=2.35}, Promotor{name='Kimberly Chavez', hometown='Oxford MS', activityPercentage=2.5}, Promotor{name='Puala Dill', hometown='Vicksburg MS', activityPercentage=2.75}, Promotor{name='Yvonne Button', hometown='Shreveport LA', activityPercentage=2.28}, Promotor{name='Eva	Bridge', hometown='Chattanooga TN', activityPercentage=2.49}, Promotor{name='Laura Cassady', hometown='LaGrange GA', activityPercentage=2.7}, Promotor{name='Carol Smith', hometown='Biloxi MS', activityPercentage=2.5}], overallActivityPercentage=2.4600000000000004}
+Nonprofits{name='Better Environmental Health', acronym='BEH', number of promotors= 13, promotors=[Promotor{name='Donna Perez', hometown='Gainesville FL', activityPercentage=1.05}, Promotor{name='Helen Baker', hometown='Baton Rouge LA', activityPercentage=1.5}, Promotor{name='Jacqueline Kilmer', hometown='Hazlehurst MS', activityPercentage=1.75}, Promotor{name='Amber Jacobs', hometown='Clarksdale MS', activityPercentage=2.28}, Promotor{name='Pam Pendleton', hometown='Baldwyn MS', activityPercentage=1.65}, Promotor{name='Sarah Michaels', hometown='LaGrange GA', activityPercentage=2.22}, Promotor{name='Michelle Fudge', hometown='Vicksburg MS', activityPercentage=2.19}, Promotor{name='Bethany Schoemaker', hometown='Merietta GA', activityPercentage=1.45}, Promotor{name='Violet Rotten', hometown='Metaire LA', activityPercentage=2.33}, Promotor{name='Amber Russo', hometown='Greenville SC', activityPercentage=2.25}, Promotor{name='Jessie Nicolls', hometown='Biloxi MS', activityPercentage=2.2}, Promotor{name='Cheryl Green', hometown='Greenville SC', activityPercentage=2.1}, Promotor{name='Michelle Stegall', hometown='Monroe LA', activityPercentage=2.0}], overallActivityPercentage=1.920769230769231}
+Nonprofits{name='Zebra Admiration Members', acronym='ZAM', number of promotors= 18, promotors=[Promotor{name='Elizabeth Welton', hometown='McGehee AR', activityPercentage=1.87}, Promotor{name='Ruby Capwell', hometown='Middleton TN', activityPercentage=1.4}, Promotor{name='Brittany Linn', hometown='Kosciusko MS', activityPercentage=3.83}, Promotor{name='Jessie Hersh', hometown='Merietta GA', activityPercentage=3.6}, Promotor{name='Terri Smith', hometown='Alpharetta GA', activityPercentage=3.95}, Promotor{name='Kristen Gavin', hometown='Huntsville AL', activityPercentage=3.5}, Promotor{name='Bethany Qwen', hometown='Saltillo MS', activityPercentage=2.88}, Promotor{name='Stephanie Hillman', hometown='Bartlett TN', activityPercentage=3.15}, Promotor{name='Teresa Pendleton', hometown='Fulton MS', activityPercentage=2.9}, Promotor{name='Rita Coldbeck', hometown='Pasadena CA', activityPercentage=2.95}, Promotor{name='Teri Mayor', hometown='Baton Rouge LA', activityPercentage=3.8}, Promotor{name='Vivian Trumbo', hometown='Holly Springs MS', activityPercentage=3.3}, Promotor{name='Jamie Shiver', hometown='Tupelo MS', activityPercentage=3.1}, Promotor{name='Michelle Aycook', hometown='Carthage MS', activityPercentage=3.25}, Promotor{name='Rosemary Cowart', hometown='Baton Rouge LA', activityPercentage=3.8}, Promotor{name='Clara Nutt', hometown='Carlisle AR', activityPercentage=3.2}, Promotor{name='Mary Rigney', hometown='Arlington TX', activityPercentage=2.95}, Promotor{name='Ruby Edkins', hometown='Destin FL', activityPercentage=3.9}], overallActivityPercentage=3.1849999999999996}
+Nonprofits{name='Zoo Nation', acronym='ZN', number of promotors= 7, promotors=[Promotor{name='Jennifer Jones', hometown='Greenville MS', activityPercentage=3.92}, Promotor{name='Roberta Sokol', hometown='Tupelo MS', activityPercentage=3.66}, Promotor{name='Mary Finerty', hometown='Florence AL', activityPercentage=3.78}, Promotor{name='Amanda Flanders', hometown='Walnut Grove MS', activityPercentage=3.88}, Promotor{name='Vicki Ozwalt', hometown='Memphis TN', activityPercentage=3.9}, Promotor{name='Amber Longston', hometown='Canton MS', activityPercentage=3.99}, Promotor{name='Carolyn Deer', hometown='Oxford MS', activityPercentage=4.0}], overallActivityPercentage=3.875714285714285}
+Nonprofits{name='I Heart Yorkies', acronym='IHY', number of promotors= 15, promotors=[Promotor{name='Patricia Abbot', hometown='Batesville MS', activityPercentage=3.15}, Promotor{name='Heather Newcomb', hometown='Vicksburg MS', activityPercentage=3.8}, Promotor{name='Thersa Cleveland', hometown='Biloxi MS', activityPercentage=2.95}, Promotor{name='Robin Frame', hometown='Whiteville TN', activityPercentage=3.95}, Promotor{name='Mary Elizabeth Trump', hometown='Tyler TX', activityPercentage=3.83}, Promotor{name='Carrie Keener', hometown='Bartlett TN', activityPercentage=3.4}, Promotor{name='Lucy Johnson', hometown='Newman GA', activityPercentage=3.5}, Promotor{name='Beatrice Denton', hometown='Houston MS', activityPercentage=3.6}, Promotor{name='Sarah Newberry', hometown='Batesville MS', activityPercentage=2.95}, Promotor{name='Carolyn Olive', hometown='Paris MS', activityPercentage=3.8}, Promotor{name='Monica Sneed', hometown='Memphis TN', activityPercentage=3.3}, Promotor{name='Kathlyn Williams', hometown='Gulport MS', activityPercentage=3.1}, Promotor{name='Suzanne Michael', hometown='Merietta GA', activityPercentage=3.25}, Promotor{name='Charlotte Fort', hometown='Newton MS', activityPercentage=3.2}, Promotor{name='Tina Fonda', hometown='Memphis TN', activityPercentage=3.9}], overallActivityPercentage=3.445333333333333}
+Nonprofits{name='International Kids Movement', acronym='IKM', number of promotors= 20, promotors=[Promotor{name='Elizabeth Harris', hometown='Madison MS', activityPercentage=3.1}, Promotor{name='Jennifer Paden', hometown='Bruce MS', activityPercentage=3.3}, Promotor{name='Jessica Egner', hometown='Walnut Grove MS', activityPercentage=2.87}, Promotor{name='Sharon Kerr', hometown='Slidell LA', activityPercentage=2.8}, Promotor{name='Cheryl Downs', hometown='Canton MS', activityPercentage=2.69}, Promotor{name='Smantha Kell', hometown='Irving TX', activityPercentage=2.88}, Promotor{name='Susanne Symons', hometown='Santa Barbara CA', activityPercentage=3.6}, Promotor{name='Lisa Hadfield', hometown='Forest MS', activityPercentage=3.15}, Promotor{name='Kimberly Clark', hometown='Corinth MS', activityPercentage=2.8}, Promotor{name='Alice Cooper', hometown='Red Bay AL', activityPercentage=2.9}, Promotor{name='Laura Dunphy', hometown='Madison MS', activityPercentage=2.95}, Promotor{name='Sheila Rick', hometown='Carlisle AR', activityPercentage=3.5}, Promotor{name='Jessica Bryant', hometown='Chattanooga TN', activityPercentage=2.95}, Promotor{name='Mary Carver', hometown='Picayune MS', activityPercentage=2.95}, Promotor{name='Nancy Vanzant', hometown='Tyler TX', activityPercentage=3.4}, Promotor{name='Elizabeth Redman', hometown='Forest MS', activityPercentage=2.7}, Promotor{name='Tonya Sheard', hometown='Olive Branch MS', activityPercentage=2.8}, Promotor{name='Brittany Kurz', hometown='Cookeville TN', activityPercentage=2.83}, Promotor{name='Juanita Sloop', hometown='Vicksburg MS', activityPercentage=3.25}, Promotor{name='Lisa Deeds', hometown='Germantown TN', activityPercentage=3.2}], overallActivityPercentage=3.031}
+Nonprofits{name='Mothers Against Hate', acronym='MAH', number of promotors= 8, promotors=[Promotor{name='Mary Moore', hometown='Huntsville AL', activityPercentage=3.99}, Promotor{name='Mary Jane Smith', hometown='Coffeeville MS', activityPercentage=4.0}, Promotor{name='Charlotte Garza', hometown='Germantown TN', activityPercentage=3.86}, Promotor{name='Danielle Lantz', hometown='Water Valley MS', activityPercentage=3.56}, Promotor{name='Virginia James', hometown='Germantown TN', activityPercentage=3.8}, Promotor{name='Cynthia Turngate', hometown='LaGrange GA', activityPercentage=3.45}, Promotor{name='Amanda Lombard', hometown='Alexandria LA', activityPercentage=3.75}, Promotor{name='Melissa Ashby', hometown='Tuscaloosa AL', activityPercentage=3.79}], overallActivityPercentage=3.775}
+Nonprofits{name='Organization of Happiness', acronym='OH', number of promotors= 10, promotors=[Promotor{name='Sarah Lopez', hometown='Dallas TX', activityPercentage=2.0}, Promotor{name='Mary Elizabeth Johnson', hometown='Clarksdale MS', activityPercentage=2.2}, Promotor{name='Melissa Long', hometown='Vero Beach FL', activityPercentage=2.1}, Promotor{name='Laura Martin', hometown='Little Rock AR', activityPercentage=2.45}, Promotor{name='Kimberly McKinnon', hometown='Pope MS', activityPercentage=2.25}, Promotor{name='Deborah Isaacs', hometown='Lewisburg MS', activityPercentage=2.05}, Promotor{name='Melissa Johnson', hometown='Independence MS', activityPercentage=1.5}, Promotor{name='Valeria Knight', hometown='Fort Worth TX', activityPercentage=1.33}, Promotor{name='Monica Hooks', hometown='Pascagoula MS', activityPercentage=1.22}, Promotor{name='Nancy Youngblood', hometown='Metaire LA', activityPercentage=1.75}], overallActivityPercentage=1.8850000000000002}
+Nonprofits{name='People Encouraging Kindness', acronym='PEK', number of promotors= 20, promotors=[Promotor{name='Carol Turner', hometown='Sarasota FL', activityPercentage=0.1}, Promotor{name='Maria Hernandez', hometown='Hernando MS', activityPercentage=0.95}, Promotor{name='Nancy Wade', hometown='Little Rock AR', activityPercentage=0.5}, Promotor{name='Carolyn Love', hometown='Metaire LA', activityPercentage=0.69}, Promotor{name='Monica Inman', hometown='Pascagoula MS', activityPercentage=1.88}, Promotor{name='Bethany Denny', hometown='Biloxi MS', activityPercentage=0.75}, Promotor{name='Cathy Ayers', hometown='Madison MS', activityPercentage=1.75}, Promotor{name='Rhonda McMillan', hometown='Pascagoula MS', activityPercentage=0.6}, Promotor{name='Elizabeth Heard', hometown='Amory MS', activityPercentage=1.5}, Promotor{name='Deborah Truitt', hometown='Tupelo MS', activityPercentage=1.95}, Promotor{name='Victoria Willcox', hometown='Amory MS', activityPercentage=0.65}, Promotor{name='Esther Young', hometown='Ripley MS', activityPercentage=1.8}, Promotor{name='Sarah Lentz', hometown='Vero Beach FL', activityPercentage=0.7}, Promotor{name='Tara Quinlan', hometown='Destin FL', activityPercentage=0.87}, Promotor{name='Kim Graves', hometown='Hernando MS', activityPercentage=0.83}, Promotor{name='Danielle Medina', hometown='Mobile AL', activityPercentage=0.8}, Promotor{name='Carol Yates', hometown='Carthage MS', activityPercentage=0.8}, Promotor{name='Yolanda Elton', hometown='Horn Lake MS', activityPercentage=0.25}, Promotor{name='Amy Ivy', hometown='Germantown TN', activityPercentage=0.3}, Promotor{name='Amanda Longwell', hometown='Tyler TX', activityPercentage=0.2}], overallActivityPercentage=0.8934999999999998}
+Nonprofits{name='Tomorrow's Organized People', acronym='TOP', number of promotors= 21, promotors=[Promotor{name='Linda Brookman', hometown='Senatobia MS', activityPercentage=2.87}, Promotor{name='Margaret Paddington', hometown='Okolona MS', activityPercentage=3.8}, Promotor{name='Laura Taft', hometown='Kosciusko MS', activityPercentage=3.8}, Promotor{name='Amanda Oden', hometown='Gulport MS', activityPercentage=2.7}, Promotor{name='Tina Enright', hometown='Mobile AL', activityPercentage=2.95}, Promotor{name='Nancy Upton', hometown='Oxford MS', activityPercentage=2.69}, Promotor{name='Carol Vail', hometown='Destin FL', activityPercentage=2.88}, Promotor{name='Cynthia Mullin', hometown='Gulport MS', activityPercentage=2.6}, Promotor{name='Thersa Ridgeland', hometown='Oxford MS', activityPercentage=3.15}, Promotor{name='Brenda Johnston', hometown='Mobile AL', activityPercentage=3.5}, Promotor{name='Katie Sheppard', hometown='Charlotte NC', activityPercentage=3.95}, Promotor{name='Pamela Reyes', hometown='Corinth MS', activityPercentage=2.95}, Promotor{name='Robin Zellar', hometown='Kosciusko MS', activityPercentage=3.4}, Promotor{name='Valerie Upton', hometown='Ashland MS', activityPercentage=2.8}, Promotor{name='Virginia Redman', hometown='Pasadena CA', activityPercentage=3.3}, Promotor{name='Charlotte Hoffman', hometown='Monroe LA', activityPercentage=2.83}, Promotor{name='Stacey Peavy', hometown='Cleveland TN', activityPercentage=2.9}, Promotor{name='Cathy Kilroy', hometown='Bartlett TN', activityPercentage=3.1}, Promotor{name='Laura Fitzpatrick', hometown='Tupelo MS', activityPercentage=3.25}, Promotor{name='Robin Goodspeed', hometown='Bartlett TN', activityPercentage=3.2}, Promotor{name='Thersa Cronk', hometown='Tupelo MS', activityPercentage=3.9}], overallActivityPercentage=3.1676190476190476}
+Nonprofits{name='Youth Network Opposing Tabacco', acronym='YNOT', number of promotors= 15, promotors=[Promotor{name='Patricia Carter', hometown='Tunica MS', activityPercentage=2.35}, Promotor{name='Karen Adams', hometown='Tupelo MS', activityPercentage=2.22}, Promotor{name='Carol Uber', hometown='Crystal Springs MS', activityPercentage=2.45}, Promotor{name='Melissa Appel', hometown='Picayune MS', activityPercentage=2.33}, Promotor{name='Lisa Toney', hometown='Tuscaloosa AL', activityPercentage=2.25}, Promotor{name='Elizabeth Mason', hometown='Florence AL', activityPercentage=2.2}, Promotor{name='Stacey Kingman', hometown='Vicksburg MS', activityPercentage=2.3}, Promotor{name='Jess Langdon', hometown='Tuscaloosa AL', activityPercentage=2.45}, Promotor{name='Stephanie Tide', hometown='Aberdeen MS', activityPercentage=2.5}, Promotor{name='Carolyn Tracey', hometown='Walnut MS', activityPercentage=2.75}, Promotor{name='Charlene Overton', hometown='Senatobia MS', activityPercentage=2.28}, Promotor{name='Janet Parent', hometown='Florence AL', activityPercentage=2.49}, Promotor{name='Rhonda Borden', hometown='Oxford MS', activityPercentage=2.65}, Promotor{name='Hazle Joyce', hometown='Senatobia MS', activityPercentage=2.5}, Promotor{name='Tiffany Rodgers', hometown='Oxford MS', activityPercentage=2.7}], overallActivityPercentage=2.428}
+Nonprofits{name='Xtremely Together', acronym='XT', number of promotors= 17, promotors=[Promotor{name='Nancy Scott', hometown='Mobile AL', activityPercentage=2.5}, Promotor{name='Barbara Howland', hometown='Webb MS', activityPercentage=2.75}, Promotor{name='Amy Shoop', hometown='Jasper AL', activityPercentage=2.4}, Promotor{name='Rhonda Horford', hometown='Carlisle AR', activityPercentage=2.45}, Promotor{name='Vicki Israel', hometown='Chattanooga TN', activityPercentage=2.8}, Promotor{name='Deborah Otto', hometown='Charlotte NC', activityPercentage=2.83}, Promotor{name='Monique Seabolt', hometown='Hazlehurst MS', activityPercentage=2.5}, Promotor{name='Amy Mock', hometown='Carthage MS', activityPercentage=2.6}, Promotor{name='Christina Upson', hometown='Hernando MS', activityPercentage=2.95}, Promotor{name='Shannon Attwood', hometown='Tyler TX', activityPercentage=2.75}, Promotor{name='Lindsey Voos', hometown='Arlington TX', activityPercentage=2.28}, Promotor{name='Robin Sing', hometown='Alpharetta GA', activityPercentage=2.49}, Promotor{name='Stacey Lodge', hometown='Slidell LA', activityPercentage=2.65}, Promotor{name='Brittany Felder', hometown='Irving TX', activityPercentage=2.55}, Promotor{name='Katie Haydon', hometown='Southaven MS', activityPercentage=2.7}, Promotor{name='Joanna Hunt', hometown='Newman GA', activityPercentage=2.87}, Promotor{name='Janet Duval', hometown='Vero Beach FL', activityPercentage=3.0}], overallActivityPercentage=2.6511764705882355}
+Animal Brigade receives award 2. With an overall activity percentage of: 2.46
+Better Environmental Health receives award 3. With an overall activity percentage of: 1.9207692307692308
+Zebra Admiration Members receives award 1. With an overall activity percentage of: 3.185
+Zoo Nation receives award 1. With an overall activity percentage of: 3.875714285714286
+I Heart Yorkies receives award 1. With an overall activity percentage of: 3.4453333333333327
+International Kids Movement receives award 1. With an overall activity percentage of: 3.031
+Mothers Against Hate receives award 1. With an overall activity percentage of: 3.7750000000000004
+Organization of Happiness receives award 3. With an overall activity percentage of: 1.8849999999999998
+People Encouraging Kindness receives award 4. With an overall activity percentage of: 0.8934999999999998
+Tomorrow's Organized People receives award 1. With an overall activity percentage of: 3.1676190476190467
+Youth Network Opposing Tabacco receives award 2. With an overall activity percentage of: 2.428
+Xtremely Together receives award 2. With an overall activity percentage of: 2.6511764705882355
+Animal Brigade
+Promotor{name='Linda Collins', hometown='Senatobia MS', activityPercentage=1.65}
+Promotor{name='Susan Gonzalez', hometown='Memphis TN', activityPercentage=2.33}
+Promotor{name='Michelle Boal', hometown='Madison MS', activityPercentage=2.95}
+Promotor{name='Katie Jacobson', hometown='Arlington TX', activityPercentage=2.4}
+Promotor{name='Beth Clayburn', hometown='Hendersonville NC', activityPercentage=2.3}
+Promotor{name='Kathleen Richards', hometown='Guntown MS', activityPercentage=2.45}
+Promotor{name='Diane Lang', hometown='Irving TX', activityPercentage=2.45}
+Promotor{name='Melissa Janke', hometown='Memphis TN', activityPercentage=2.8}
+Promotor{name='Tamara Wright', hometown='Newton MS', activityPercentage=2.35}
+Promotor{name='Kimberly Chavez', hometown='Oxford MS', activityPercentage=2.5}
+Promotor{name='Puala Dill', hometown='Vicksburg MS', activityPercentage=2.75}
+Promotor{name='Yvonne Button', hometown='Shreveport LA', activityPercentage=2.28}
+Promotor{name='Eva	Bridge', hometown='Chattanooga TN', activityPercentage=2.49}
+Promotor{name='Laura Cassady', hometown='LaGrange GA', activityPercentage=2.7}
+Promotor{name='Carol Smith', hometown='Biloxi MS', activityPercentage=2.5}
+Animal Brigade
+Promotor{name='Linda Collins', hometown='Senatobia MS', activityPercentage=1.65}
+Promotor{name='Yvonne Button', hometown='Shreveport LA', activityPercentage=2.28}
+Promotor{name='Beth Clayburn', hometown='Hendersonville NC', activityPercentage=2.3}
+Promotor{name='Susan Gonzalez', hometown='Memphis TN', activityPercentage=2.33}
+Promotor{name='Tamara Wright', hometown='Newton MS', activityPercentage=2.35}
+Promotor{name='Katie Jacobson', hometown='Arlington TX', activityPercentage=2.4}
+Promotor{name='Kathleen Richards', hometown='Guntown MS', activityPercentage=2.45}
+Promotor{name='Diane Lang', hometown='Irving TX', activityPercentage=2.45}
+Promotor{name='Eva	Bridge', hometown='Chattanooga TN', activityPercentage=2.49}
+Promotor{name='Kimberly Chavez', hometown='Oxford MS', activityPercentage=2.5}
+Promotor{name='Carol Smith', hometown='Biloxi MS', activityPercentage=2.5}
+Promotor{name='Laura Cassady', hometown='LaGrange GA', activityPercentage=2.7}
+Promotor{name='Puala Dill', hometown='Vicksburg MS', activityPercentage=2.75}
+Promotor{name='Melissa Janke', hometown='Memphis TN', activityPercentage=2.8}
+Promotor{name='Michelle Boal', hometown='Madison MS', activityPercentage=2.95}
+Better Environmental Health
+Promotor{name='Donna Perez', hometown='Gainesville FL', activityPercentage=1.05}
+Promotor{name='Helen Baker', hometown='Baton Rouge LA', activityPercentage=1.5}
+Promotor{name='Jacqueline Kilmer', hometown='Hazlehurst MS', activityPercentage=1.75}
+Promotor{name='Amber Jacobs', hometown='Clarksdale MS', activityPercentage=2.28}
+Promotor{name='Pam Pendleton', hometown='Baldwyn MS', activityPercentage=1.65}
+Promotor{name='Sarah Michaels', hometown='LaGrange GA', activityPercentage=2.22}
+Promotor{name='Michelle Fudge', hometown='Vicksburg MS', activityPercentage=2.19}
+Promotor{name='Bethany Schoemaker', hometown='Merietta GA', activityPercentage=1.45}
+Promotor{name='Violet Rotten', hometown='Metaire LA', activityPercentage=2.33}
+Promotor{name='Amber Russo', hometown='Greenville SC', activityPercentage=2.25}
+Promotor{name='Jessie Nicolls', hometown='Biloxi MS', activityPercentage=2.2}
+Promotor{name='Cheryl Green', hometown='Greenville SC', activityPercentage=2.1}
+Promotor{name='Michelle Stegall', hometown='Monroe LA', activityPercentage=2.0}
+Better Environmental Health
+Promotor{name='Donna Perez', hometown='Gainesville FL', activityPercentage=1.05}
+Promotor{name='Bethany Schoemaker', hometown='Merietta GA', activityPercentage=1.45}
+Promotor{name='Helen Baker', hometown='Baton Rouge LA', activityPercentage=1.5}
+Promotor{name='Pam Pendleton', hometown='Baldwyn MS', activityPercentage=1.65}
+Promotor{name='Jacqueline Kilmer', hometown='Hazlehurst MS', activityPercentage=1.75}
+Promotor{name='Michelle Stegall', hometown='Monroe LA', activityPercentage=2.0}
+Promotor{name='Cheryl Green', hometown='Greenville SC', activityPercentage=2.1}
+Promotor{name='Michelle Fudge', hometown='Vicksburg MS', activityPercentage=2.19}
+Promotor{name='Jessie Nicolls', hometown='Biloxi MS', activityPercentage=2.2}
+Promotor{name='Sarah Michaels', hometown='LaGrange GA', activityPercentage=2.22}
+Promotor{name='Amber Russo', hometown='Greenville SC', activityPercentage=2.25}
+Promotor{name='Amber Jacobs', hometown='Clarksdale MS', activityPercentage=2.28}
+Promotor{name='Violet Rotten', hometown='Metaire LA', activityPercentage=2.33}
+Zebra Admiration Members
+Promotor{name='Elizabeth Welton', hometown='McGehee AR', activityPercentage=1.87}
+Promotor{name='Ruby Capwell', hometown='Middleton TN', activityPercentage=1.4}
+Promotor{name='Brittany Linn', hometown='Kosciusko MS', activityPercentage=3.83}
+Promotor{name='Jessie Hersh', hometown='Merietta GA', activityPercentage=3.6}
+Promotor{name='Terri Smith', hometown='Alpharetta GA', activityPercentage=3.95}
+Promotor{name='Kristen Gavin', hometown='Huntsville AL', activityPercentage=3.5}
+Promotor{name='Bethany Qwen', hometown='Saltillo MS', activityPercentage=2.88}
+Promotor{name='Stephanie Hillman', hometown='Bartlett TN', activityPercentage=3.15}
+Promotor{name='Teresa Pendleton', hometown='Fulton MS', activityPercentage=2.9}
+Promotor{name='Rita Coldbeck', hometown='Pasadena CA', activityPercentage=2.95}
+Promotor{name='Teri Mayor', hometown='Baton Rouge LA', activityPercentage=3.8}
+Promotor{name='Vivian Trumbo', hometown='Holly Springs MS', activityPercentage=3.3}
+Promotor{name='Jamie Shiver', hometown='Tupelo MS', activityPercentage=3.1}
+Promotor{name='Michelle Aycook', hometown='Carthage MS', activityPercentage=3.25}
+Promotor{name='Rosemary Cowart', hometown='Baton Rouge LA', activityPercentage=3.8}
+Promotor{name='Clara Nutt', hometown='Carlisle AR', activityPercentage=3.2}
+Promotor{name='Mary Rigney', hometown='Arlington TX', activityPercentage=2.95}
+Promotor{name='Ruby Edkins', hometown='Destin FL', activityPercentage=3.9}
+Zebra Admiration Members
+Promotor{name='Ruby Capwell', hometown='Middleton TN', activityPercentage=1.4}
+Promotor{name='Elizabeth Welton', hometown='McGehee AR', activityPercentage=1.87}
+Promotor{name='Bethany Qwen', hometown='Saltillo MS', activityPercentage=2.88}
+Promotor{name='Teresa Pendleton', hometown='Fulton MS', activityPercentage=2.9}
+Promotor{name='Rita Coldbeck', hometown='Pasadena CA', activityPercentage=2.95}
+Promotor{name='Mary Rigney', hometown='Arlington TX', activityPercentage=2.95}
+Promotor{name='Jamie Shiver', hometown='Tupelo MS', activityPercentage=3.1}
+Promotor{name='Stephanie Hillman', hometown='Bartlett TN', activityPercentage=3.15}
+Promotor{name='Clara Nutt', hometown='Carlisle AR', activityPercentage=3.2}
+Promotor{name='Michelle Aycook', hometown='Carthage MS', activityPercentage=3.25}
+Promotor{name='Vivian Trumbo', hometown='Holly Springs MS', activityPercentage=3.3}
+Promotor{name='Kristen Gavin', hometown='Huntsville AL', activityPercentage=3.5}
+Promotor{name='Jessie Hersh', hometown='Merietta GA', activityPercentage=3.6}
+Promotor{name='Rosemary Cowart', hometown='Baton Rouge LA', activityPercentage=3.8}
+Promotor{name='Teri Mayor', hometown='Baton Rouge LA', activityPercentage=3.8}
+Promotor{name='Brittany Linn', hometown='Kosciusko MS', activityPercentage=3.83}
+Promotor{name='Ruby Edkins', hometown='Destin FL', activityPercentage=3.9}
+Promotor{name='Terri Smith', hometown='Alpharetta GA', activityPercentage=3.95}
+Zoo Nation
+Promotor{name='Jennifer Jones', hometown='Greenville MS', activityPercentage=3.92}
+Promotor{name='Roberta Sokol', hometown='Tupelo MS', activityPercentage=3.66}
+Promotor{name='Mary Finerty', hometown='Florence AL', activityPercentage=3.78}
+Promotor{name='Amanda Flanders', hometown='Walnut Grove MS', activityPercentage=3.88}
+Promotor{name='Vicki Ozwalt', hometown='Memphis TN', activityPercentage=3.9}
+Promotor{name='Amber Longston', hometown='Canton MS', activityPercentage=3.99}
+Promotor{name='Carolyn Deer', hometown='Oxford MS', activityPercentage=4.0}
+Zoo Nation
+Promotor{name='Roberta Sokol', hometown='Tupelo MS', activityPercentage=3.66}
+Promotor{name='Mary Finerty', hometown='Florence AL', activityPercentage=3.78}
+Promotor{name='Amanda Flanders', hometown='Walnut Grove MS', activityPercentage=3.88}
+Promotor{name='Vicki Ozwalt', hometown='Memphis TN', activityPercentage=3.9}
+Promotor{name='Jennifer Jones', hometown='Greenville MS', activityPercentage=3.92}
+Promotor{name='Amber Longston', hometown='Canton MS', activityPercentage=3.99}
+Promotor{name='Carolyn Deer', hometown='Oxford MS', activityPercentage=4.0}
+I Heart Yorkies
+Promotor{name='Patricia Abbot', hometown='Batesville MS', activityPercentage=3.15}
+Promotor{name='Heather Newcomb', hometown='Vicksburg MS', activityPercentage=3.8}
+Promotor{name='Thersa Cleveland', hometown='Biloxi MS', activityPercentage=2.95}
+Promotor{name='Robin Frame', hometown='Whiteville TN', activityPercentage=3.95}
+Promotor{name='Mary Elizabeth Trump', hometown='Tyler TX', activityPercentage=3.83}
+Promotor{name='Carrie Keener', hometown='Bartlett TN', activityPercentage=3.4}
+Promotor{name='Lucy Johnson', hometown='Newman GA', activityPercentage=3.5}
+Promotor{name='Beatrice Denton', hometown='Houston MS', activityPercentage=3.6}
+Promotor{name='Sarah Newberry', hometown='Batesville MS', activityPercentage=2.95}
+Promotor{name='Carolyn Olive', hometown='Paris MS', activityPercentage=3.8}
+Promotor{name='Monica Sneed', hometown='Memphis TN', activityPercentage=3.3}
+Promotor{name='Kathlyn Williams', hometown='Gulport MS', activityPercentage=3.1}
+Promotor{name='Suzanne Michael', hometown='Merietta GA', activityPercentage=3.25}
+Promotor{name='Charlotte Fort', hometown='Newton MS', activityPercentage=3.2}
+Promotor{name='Tina Fonda', hometown='Memphis TN', activityPercentage=3.9}
+I Heart Yorkies
+Promotor{name='Thersa Cleveland', hometown='Biloxi MS', activityPercentage=2.95}
+Promotor{name='Sarah Newberry', hometown='Batesville MS', activityPercentage=2.95}
+Promotor{name='Kathlyn Williams', hometown='Gulport MS', activityPercentage=3.1}
+Promotor{name='Patricia Abbot', hometown='Batesville MS', activityPercentage=3.15}
+Promotor{name='Charlotte Fort', hometown='Newton MS', activityPercentage=3.2}
+Promotor{name='Suzanne Michael', hometown='Merietta GA', activityPercentage=3.25}
+Promotor{name='Monica Sneed', hometown='Memphis TN', activityPercentage=3.3}
+Promotor{name='Carrie Keener', hometown='Bartlett TN', activityPercentage=3.4}
+Promotor{name='Lucy Johnson', hometown='Newman GA', activityPercentage=3.5}
+Promotor{name='Beatrice Denton', hometown='Houston MS', activityPercentage=3.6}
+Promotor{name='Heather Newcomb', hometown='Vicksburg MS', activityPercentage=3.8}
+Promotor{name='Carolyn Olive', hometown='Paris MS', activityPercentage=3.8}
+Promotor{name='Mary Elizabeth Trump', hometown='Tyler TX', activityPercentage=3.83}
+Promotor{name='Tina Fonda', hometown='Memphis TN', activityPercentage=3.9}
+Promotor{name='Robin Frame', hometown='Whiteville TN', activityPercentage=3.95}
+International Kids Movement
+Promotor{name='Elizabeth Harris', hometown='Madison MS', activityPercentage=3.1}
+Promotor{name='Jennifer Paden', hometown='Bruce MS', activityPercentage=3.3}
+Promotor{name='Jessica Egner', hometown='Walnut Grove MS', activityPercentage=2.87}
+Promotor{name='Sharon Kerr', hometown='Slidell LA', activityPercentage=2.8}
+Promotor{name='Cheryl Downs', hometown='Canton MS', activityPercentage=2.69}
+Promotor{name='Smantha Kell', hometown='Irving TX', activityPercentage=2.88}
+Promotor{name='Susanne Symons', hometown='Santa Barbara CA', activityPercentage=3.6}
+Promotor{name='Lisa Hadfield', hometown='Forest MS', activityPercentage=3.15}
+Promotor{name='Kimberly Clark', hometown='Corinth MS', activityPercentage=2.8}
+Promotor{name='Alice Cooper', hometown='Red Bay AL', activityPercentage=2.9}
+Promotor{name='Laura Dunphy', hometown='Madison MS', activityPercentage=2.95}
+Promotor{name='Sheila Rick', hometown='Carlisle AR', activityPercentage=3.5}
+Promotor{name='Jessica Bryant', hometown='Chattanooga TN', activityPercentage=2.95}
+Promotor{name='Mary Carver', hometown='Picayune MS', activityPercentage=2.95}
+Promotor{name='Nancy Vanzant', hometown='Tyler TX', activityPercentage=3.4}
+Promotor{name='Elizabeth Redman', hometown='Forest MS', activityPercentage=2.7}
+Promotor{name='Tonya Sheard', hometown='Olive Branch MS', activityPercentage=2.8}
+Promotor{name='Brittany Kurz', hometown='Cookeville TN', activityPercentage=2.83}
+Promotor{name='Juanita Sloop', hometown='Vicksburg MS', activityPercentage=3.25}
+Promotor{name='Lisa Deeds', hometown='Germantown TN', activityPercentage=3.2}
+International Kids Movement
+Promotor{name='Cheryl Downs', hometown='Canton MS', activityPercentage=2.69}
+Promotor{name='Elizabeth Redman', hometown='Forest MS', activityPercentage=2.7}
+Promotor{name='Sharon Kerr', hometown='Slidell LA', activityPercentage=2.8}
+Promotor{name='Tonya Sheard', hometown='Olive Branch MS', activityPercentage=2.8}
+Promotor{name='Kimberly Clark', hometown='Corinth MS', activityPercentage=2.8}
+Promotor{name='Brittany Kurz', hometown='Cookeville TN', activityPercentage=2.83}
+Promotor{name='Jessica Egner', hometown='Walnut Grove MS', activityPercentage=2.87}
+Promotor{name='Smantha Kell', hometown='Irving TX', activityPercentage=2.88}
+Promotor{name='Alice Cooper', hometown='Red Bay AL', activityPercentage=2.9}
+Promotor{name='Laura Dunphy', hometown='Madison MS', activityPercentage=2.95}
+Promotor{name='Mary Carver', hometown='Picayune MS', activityPercentage=2.95}
+Promotor{name='Jessica Bryant', hometown='Chattanooga TN', activityPercentage=2.95}
+Promotor{name='Elizabeth Harris', hometown='Madison MS', activityPercentage=3.1}
+Promotor{name='Lisa Hadfield', hometown='Forest MS', activityPercentage=3.15}
+Promotor{name='Lisa Deeds', hometown='Germantown TN', activityPercentage=3.2}
+Promotor{name='Juanita Sloop', hometown='Vicksburg MS', activityPercentage=3.25}
+Promotor{name='Jennifer Paden', hometown='Bruce MS', activityPercentage=3.3}
+Promotor{name='Nancy Vanzant', hometown='Tyler TX', activityPercentage=3.4}
+Promotor{name='Sheila Rick', hometown='Carlisle AR', activityPercentage=3.5}
+Promotor{name='Susanne Symons', hometown='Santa Barbara CA', activityPercentage=3.6}
+Mothers Against Hate
+Promotor{name='Mary Moore', hometown='Huntsville AL', activityPercentage=3.99}
+Promotor{name='Mary Jane Smith', hometown='Coffeeville MS', activityPercentage=4.0}
+Promotor{name='Charlotte Garza', hometown='Germantown TN', activityPercentage=3.86}
+Promotor{name='Danielle Lantz', hometown='Water Valley MS', activityPercentage=3.56}
+Promotor{name='Virginia James', hometown='Germantown TN', activityPercentage=3.8}
+Promotor{name='Cynthia Turngate', hometown='LaGrange GA', activityPercentage=3.45}
+Promotor{name='Amanda Lombard', hometown='Alexandria LA', activityPercentage=3.75}
+Promotor{name='Melissa Ashby', hometown='Tuscaloosa AL', activityPercentage=3.79}
+Mothers Against Hate
+Promotor{name='Cynthia Turngate', hometown='LaGrange GA', activityPercentage=3.45}
+Promotor{name='Danielle Lantz', hometown='Water Valley MS', activityPercentage=3.56}
+Promotor{name='Amanda Lombard', hometown='Alexandria LA', activityPercentage=3.75}
+Promotor{name='Melissa Ashby', hometown='Tuscaloosa AL', activityPercentage=3.79}
+Promotor{name='Virginia James', hometown='Germantown TN', activityPercentage=3.8}
+Promotor{name='Charlotte Garza', hometown='Germantown TN', activityPercentage=3.86}
+Promotor{name='Mary Moore', hometown='Huntsville AL', activityPercentage=3.99}
+Promotor{name='Mary Jane Smith', hometown='Coffeeville MS', activityPercentage=4.0}
+Organization of Happiness
+Promotor{name='Sarah Lopez', hometown='Dallas TX', activityPercentage=2.0}
+Promotor{name='Mary Elizabeth Johnson', hometown='Clarksdale MS', activityPercentage=2.2}
+Promotor{name='Melissa Long', hometown='Vero Beach FL', activityPercentage=2.1}
+Promotor{name='Laura Martin', hometown='Little Rock AR', activityPercentage=2.45}
+Promotor{name='Kimberly McKinnon', hometown='Pope MS', activityPercentage=2.25}
+Promotor{name='Deborah Isaacs', hometown='Lewisburg MS', activityPercentage=2.05}
+Promotor{name='Melissa Johnson', hometown='Independence MS', activityPercentage=1.5}
+Promotor{name='Valeria Knight', hometown='Fort Worth TX', activityPercentage=1.33}
+Promotor{name='Monica Hooks', hometown='Pascagoula MS', activityPercentage=1.22}
+Promotor{name='Nancy Youngblood', hometown='Metaire LA', activityPercentage=1.75}
+Organization of Happiness
+Promotor{name='Monica Hooks', hometown='Pascagoula MS', activityPercentage=1.22}
+Promotor{name='Valeria Knight', hometown='Fort Worth TX', activityPercentage=1.33}
+Promotor{name='Melissa Johnson', hometown='Independence MS', activityPercentage=1.5}
+Promotor{name='Nancy Youngblood', hometown='Metaire LA', activityPercentage=1.75}
+Promotor{name='Sarah Lopez', hometown='Dallas TX', activityPercentage=2.0}
+Promotor{name='Deborah Isaacs', hometown='Lewisburg MS', activityPercentage=2.05}
+Promotor{name='Melissa Long', hometown='Vero Beach FL', activityPercentage=2.1}
+Promotor{name='Mary Elizabeth Johnson', hometown='Clarksdale MS', activityPercentage=2.2}
+Promotor{name='Kimberly McKinnon', hometown='Pope MS', activityPercentage=2.25}
+Promotor{name='Laura Martin', hometown='Little Rock AR', activityPercentage=2.45}
+People Encouraging Kindness
+Promotor{name='Carol Turner', hometown='Sarasota FL', activityPercentage=0.1}
+Promotor{name='Maria Hernandez', hometown='Hernando MS', activityPercentage=0.95}
+Promotor{name='Nancy Wade', hometown='Little Rock AR', activityPercentage=0.5}
+Promotor{name='Carolyn Love', hometown='Metaire LA', activityPercentage=0.69}
+Promotor{name='Monica Inman', hometown='Pascagoula MS', activityPercentage=1.88}
+Promotor{name='Bethany Denny', hometown='Biloxi MS', activityPercentage=0.75}
+Promotor{name='Cathy Ayers', hometown='Madison MS', activityPercentage=1.75}
+Promotor{name='Rhonda McMillan', hometown='Pascagoula MS', activityPercentage=0.6}
+Promotor{name='Elizabeth Heard', hometown='Amory MS', activityPercentage=1.5}
+Promotor{name='Deborah Truitt', hometown='Tupelo MS', activityPercentage=1.95}
+Promotor{name='Victoria Willcox', hometown='Amory MS', activityPercentage=0.65}
+Promotor{name='Esther Young', hometown='Ripley MS', activityPercentage=1.8}
+Promotor{name='Sarah Lentz', hometown='Vero Beach FL', activityPercentage=0.7}
+Promotor{name='Tara Quinlan', hometown='Destin FL', activityPercentage=0.87}
+Promotor{name='Kim Graves', hometown='Hernando MS', activityPercentage=0.83}
+Promotor{name='Danielle Medina', hometown='Mobile AL', activityPercentage=0.8}
+Promotor{name='Carol Yates', hometown='Carthage MS', activityPercentage=0.8}
+Promotor{name='Yolanda Elton', hometown='Horn Lake MS', activityPercentage=0.25}
+Promotor{name='Amy Ivy', hometown='Germantown TN', activityPercentage=0.3}
+Promotor{name='Amanda Longwell', hometown='Tyler TX', activityPercentage=0.2}
+People Encouraging Kindness
+Promotor{name='Carol Turner', hometown='Sarasota FL', activityPercentage=0.1}
+Promotor{name='Amanda Longwell', hometown='Tyler TX', activityPercentage=0.2}
+Promotor{name='Yolanda Elton', hometown='Horn Lake MS', activityPercentage=0.25}
+Promotor{name='Amy Ivy', hometown='Germantown TN', activityPercentage=0.3}
+Promotor{name='Nancy Wade', hometown='Little Rock AR', activityPercentage=0.5}
+Promotor{name='Rhonda McMillan', hometown='Pascagoula MS', activityPercentage=0.6}
+Promotor{name='Victoria Willcox', hometown='Amory MS', activityPercentage=0.65}
+Promotor{name='Carolyn Love', hometown='Metaire LA', activityPercentage=0.69}
+Promotor{name='Sarah Lentz', hometown='Vero Beach FL', activityPercentage=0.7}
+Promotor{name='Bethany Denny', hometown='Biloxi MS', activityPercentage=0.75}
+Promotor{name='Danielle Medina', hometown='Mobile AL', activityPercentage=0.8}
+Promotor{name='Carol Yates', hometown='Carthage MS', activityPercentage=0.8}
+Promotor{name='Kim Graves', hometown='Hernando MS', activityPercentage=0.83}
+Promotor{name='Tara Quinlan', hometown='Destin FL', activityPercentage=0.87}
+Promotor{name='Maria Hernandez', hometown='Hernando MS', activityPercentage=0.95}
+Promotor{name='Elizabeth Heard', hometown='Amory MS', activityPercentage=1.5}
+Promotor{name='Cathy Ayers', hometown='Madison MS', activityPercentage=1.75}
+Promotor{name='Esther Young', hometown='Ripley MS', activityPercentage=1.8}
+Promotor{name='Monica Inman', hometown='Pascagoula MS', activityPercentage=1.88}
+Promotor{name='Deborah Truitt', hometown='Tupelo MS', activityPercentage=1.95}
+Tomorrow's Organized People
+Promotor{name='Linda Brookman', hometown='Senatobia MS', activityPercentage=2.87}
+Promotor{name='Margaret Paddington', hometown='Okolona MS', activityPercentage=3.8}
+Promotor{name='Laura Taft', hometown='Kosciusko MS', activityPercentage=3.8}
+Promotor{name='Amanda Oden', hometown='Gulport MS', activityPercentage=2.7}
+Promotor{name='Tina Enright', hometown='Mobile AL', activityPercentage=2.95}
+Promotor{name='Nancy Upton', hometown='Oxford MS', activityPercentage=2.69}
+Promotor{name='Carol Vail', hometown='Destin FL', activityPercentage=2.88}
+Promotor{name='Cynthia Mullin', hometown='Gulport MS', activityPercentage=2.6}
+Promotor{name='Thersa Ridgeland', hometown='Oxford MS', activityPercentage=3.15}
+Promotor{name='Brenda Johnston', hometown='Mobile AL', activityPercentage=3.5}
+Promotor{name='Katie Sheppard', hometown='Charlotte NC', activityPercentage=3.95}
+Promotor{name='Pamela Reyes', hometown='Corinth MS', activityPercentage=2.95}
+Promotor{name='Robin Zellar', hometown='Kosciusko MS', activityPercentage=3.4}
+Promotor{name='Valerie Upton', hometown='Ashland MS', activityPercentage=2.8}
+Promotor{name='Virginia Redman', hometown='Pasadena CA', activityPercentage=3.3}
+Promotor{name='Charlotte Hoffman', hometown='Monroe LA', activityPercentage=2.83}
+Promotor{name='Stacey Peavy', hometown='Cleveland TN', activityPercentage=2.9}
+Promotor{name='Cathy Kilroy', hometown='Bartlett TN', activityPercentage=3.1}
+Promotor{name='Laura Fitzpatrick', hometown='Tupelo MS', activityPercentage=3.25}
+Promotor{name='Robin Goodspeed', hometown='Bartlett TN', activityPercentage=3.2}
+Promotor{name='Thersa Cronk', hometown='Tupelo MS', activityPercentage=3.9}
+Tomorrow's Organized People
+Promotor{name='Cynthia Mullin', hometown='Gulport MS', activityPercentage=2.6}
+Promotor{name='Nancy Upton', hometown='Oxford MS', activityPercentage=2.69}
+Promotor{name='Amanda Oden', hometown='Gulport MS', activityPercentage=2.7}
+Promotor{name='Valerie Upton', hometown='Ashland MS', activityPercentage=2.8}
+Promotor{name='Charlotte Hoffman', hometown='Monroe LA', activityPercentage=2.83}
+Promotor{name='Linda Brookman', hometown='Senatobia MS', activityPercentage=2.87}
+Promotor{name='Carol Vail', hometown='Destin FL', activityPercentage=2.88}
+Promotor{name='Stacey Peavy', hometown='Cleveland TN', activityPercentage=2.9}
+Promotor{name='Pamela Reyes', hometown='Corinth MS', activityPercentage=2.95}
+Promotor{name='Tina Enright', hometown='Mobile AL', activityPercentage=2.95}
+Promotor{name='Cathy Kilroy', hometown='Bartlett TN', activityPercentage=3.1}
+Promotor{name='Thersa Ridgeland', hometown='Oxford MS', activityPercentage=3.15}
+Promotor{name='Robin Goodspeed', hometown='Bartlett TN', activityPercentage=3.2}
+Promotor{name='Laura Fitzpatrick', hometown='Tupelo MS', activityPercentage=3.25}
+Promotor{name='Virginia Redman', hometown='Pasadena CA', activityPercentage=3.3}
+Promotor{name='Robin Zellar', hometown='Kosciusko MS', activityPercentage=3.4}
+Promotor{name='Brenda Johnston', hometown='Mobile AL', activityPercentage=3.5}
+Promotor{name='Margaret Paddington', hometown='Okolona MS', activityPercentage=3.8}
+Promotor{name='Laura Taft', hometown='Kosciusko MS', activityPercentage=3.8}
+Promotor{name='Thersa Cronk', hometown='Tupelo MS', activityPercentage=3.9}
+Promotor{name='Katie Sheppard', hometown='Charlotte NC', activityPercentage=3.95}
+Youth Network Opposing Tabacco
+Promotor{name='Patricia Carter', hometown='Tunica MS', activityPercentage=2.35}
+Promotor{name='Karen Adams', hometown='Tupelo MS', activityPercentage=2.22}
+Promotor{name='Carol Uber', hometown='Crystal Springs MS', activityPercentage=2.45}
+Promotor{name='Melissa Appel', hometown='Picayune MS', activityPercentage=2.33}
+Promotor{name='Lisa Toney', hometown='Tuscaloosa AL', activityPercentage=2.25}
+Promotor{name='Elizabeth Mason', hometown='Florence AL', activityPercentage=2.2}
+Promotor{name='Stacey Kingman', hometown='Vicksburg MS', activityPercentage=2.3}
+Promotor{name='Jess Langdon', hometown='Tuscaloosa AL', activityPercentage=2.45}
+Promotor{name='Stephanie Tide', hometown='Aberdeen MS', activityPercentage=2.5}
+Promotor{name='Carolyn Tracey', hometown='Walnut MS', activityPercentage=2.75}
+Promotor{name='Charlene Overton', hometown='Senatobia MS', activityPercentage=2.28}
+Promotor{name='Janet Parent', hometown='Florence AL', activityPercentage=2.49}
+Promotor{name='Rhonda Borden', hometown='Oxford MS', activityPercentage=2.65}
+Promotor{name='Hazle Joyce', hometown='Senatobia MS', activityPercentage=2.5}
+Promotor{name='Tiffany Rodgers', hometown='Oxford MS', activityPercentage=2.7}
+Youth Network Opposing Tabacco
+Promotor{name='Elizabeth Mason', hometown='Florence AL', activityPercentage=2.2}
+Promotor{name='Karen Adams', hometown='Tupelo MS', activityPercentage=2.22}
+Promotor{name='Lisa Toney', hometown='Tuscaloosa AL', activityPercentage=2.25}
+Promotor{name='Charlene Overton', hometown='Senatobia MS', activityPercentage=2.28}
+Promotor{name='Stacey Kingman', hometown='Vicksburg MS', activityPercentage=2.3}
+Promotor{name='Melissa Appel', hometown='Picayune MS', activityPercentage=2.33}
+Promotor{name='Patricia Carter', hometown='Tunica MS', activityPercentage=2.35}
+Promotor{name='Carol Uber', hometown='Crystal Springs MS', activityPercentage=2.45}
+Promotor{name='Jess Langdon', hometown='Tuscaloosa AL', activityPercentage=2.45}
+Promotor{name='Janet Parent', hometown='Florence AL', activityPercentage=2.49}
+Promotor{name='Stephanie Tide', hometown='Aberdeen MS', activityPercentage=2.5}
+Promotor{name='Hazle Joyce', hometown='Senatobia MS', activityPercentage=2.5}
+Promotor{name='Rhonda Borden', hometown='Oxford MS', activityPercentage=2.65}
+Promotor{name='Tiffany Rodgers', hometown='Oxford MS', activityPercentage=2.7}
+Promotor{name='Carolyn Tracey', hometown='Walnut MS', activityPercentage=2.75}
+Xtremely Together
+Promotor{name='Nancy Scott', hometown='Mobile AL', activityPercentage=2.5}
+Promotor{name='Barbara Howland', hometown='Webb MS', activityPercentage=2.75}
+Promotor{name='Amy Shoop', hometown='Jasper AL', activityPercentage=2.4}
+Promotor{name='Rhonda Horford', hometown='Carlisle AR', activityPercentage=2.45}
+Promotor{name='Vicki Israel', hometown='Chattanooga TN', activityPercentage=2.8}
+Promotor{name='Deborah Otto', hometown='Charlotte NC', activityPercentage=2.83}
+Promotor{name='Monique Seabolt', hometown='Hazlehurst MS', activityPercentage=2.5}
+Promotor{name='Amy Mock', hometown='Carthage MS', activityPercentage=2.6}
+Promotor{name='Christina Upson', hometown='Hernando MS', activityPercentage=2.95}
+Promotor{name='Shannon Attwood', hometown='Tyler TX', activityPercentage=2.75}
+Promotor{name='Lindsey Voos', hometown='Arlington TX', activityPercentage=2.28}
+Promotor{name='Robin Sing', hometown='Alpharetta GA', activityPercentage=2.49}
+Promotor{name='Stacey Lodge', hometown='Slidell LA', activityPercentage=2.65}
+Promotor{name='Brittany Felder', hometown='Irving TX', activityPercentage=2.55}
+Promotor{name='Katie Haydon', hometown='Southaven MS', activityPercentage=2.7}
+Promotor{name='Joanna Hunt', hometown='Newman GA', activityPercentage=2.87}
+Promotor{name='Janet Duval', hometown='Vero Beach FL', activityPercentage=3.0}
+Xtremely Together
+Promotor{name='Lindsey Voos', hometown='Arlington TX', activityPercentage=2.28}
+Promotor{name='Amy Shoop', hometown='Jasper AL', activityPercentage=2.4}
+Promotor{name='Rhonda Horford', hometown='Carlisle AR', activityPercentage=2.45}
+Promotor{name='Robin Sing', hometown='Alpharetta GA', activityPercentage=2.49}
+Promotor{name='Monique Seabolt', hometown='Hazlehurst MS', activityPercentage=2.5}
+Promotor{name='Nancy Scott', hometown='Mobile AL', activityPercentage=2.5}
+Promotor{name='Brittany Felder', hometown='Irving TX', activityPercentage=2.55}
+Promotor{name='Amy Mock', hometown='Carthage MS', activityPercentage=2.6}
+Promotor{name='Stacey Lodge', hometown='Slidell LA', activityPercentage=2.65}
+Promotor{name='Katie Haydon', hometown='Southaven MS', activityPercentage=2.7}
+Promotor{name='Barbara Howland', hometown='Webb MS', activityPercentage=2.75}
+Promotor{name='Shannon Attwood', hometown='Tyler TX', activityPercentage=2.75}
+Promotor{name='Vicki Israel', hometown='Chattanooga TN', activityPercentage=2.8}
+Promotor{name='Deborah Otto', hometown='Charlotte NC', activityPercentage=2.83}
+Promotor{name='Joanna Hunt', hometown='Newman GA', activityPercentage=2.87}
+Promotor{name='Christina Upson', hometown='Hernando MS', activityPercentage=2.95}
+Promotor{name='Janet Duval', hometown='Vero Beach FL', activityPercentage=3.0}
+Welcome
+
+Sorted
+
+Goodbye
+Nonprofits{name='Animal Brigade', acronym='AB', number of promotors= 15, promotors=[Promotor{name='Linda Collins', hometown='Senatobia MS', activityPercentage=1.65}, Promotor{name='Susan Gonzalez', hometown='Memphis TN', activityPercentage=2.33}, Promotor{name='Michelle Boal', hometown='Madison MS', activityPercentage=2.95}, Promotor{name='Katie Jacobson', hometown='Arlington TX', activityPercentage=2.4}, Promotor{name='Beth Clayburn', hometown='Hendersonville NC', activityPercentage=2.3}, Promotor{name='Kathleen Richards', hometown='Guntown MS', activityPercentage=2.45}, Promotor{name='Diane Lang', hometown='Irving TX', activityPercentage=2.45}, Promotor{name='Melissa Janke', hometown='Memphis TN', activityPercentage=2.8}, Promotor{name='Tamara Wright', hometown='Newton MS', activityPercentage=2.35}, Promotor{name='Kimberly Chavez', hometown='Oxford MS', activityPercentage=2.5}, Promotor{name='Puala Dill', hometown='Vicksburg MS', activityPercentage=2.75}, Promotor{name='Yvonne Button', hometown='Shreveport LA', activityPercentage=2.28}, Promotor{name='Eva	Bridge', hometown='Chattanooga TN', activityPercentage=2.49}, Promotor{name='Laura Cassady', hometown='LaGrange GA', activityPercentage=2.7}, Promotor{name='Carol Smith', hometown='Biloxi MS', activityPercentage=2.5}], overallActivityPercentage=2.4600000000000004}
+Nonprofits{name='Better Environmental Health', acronym='BEH', number of promotors= 13, promotors=[Promotor{name='Donna Perez', hometown='Gainesville FL', activityPercentage=1.05}, Promotor{name='Helen Baker', hometown='Baton Rouge LA', activityPercentage=1.5}, Promotor{name='Jacqueline Kilmer', hometown='Hazlehurst MS', activityPercentage=1.75}, Promotor{name='Amber Jacobs', hometown='Clarksdale MS', activityPercentage=2.28}, Promotor{name='Pam Pendleton', hometown='Baldwyn MS', activityPercentage=1.65}, Promotor{name='Sarah Michaels', hometown='LaGrange GA', activityPercentage=2.22}, Promotor{name='Michelle Fudge', hometown='Vicksburg MS', activityPercentage=2.19}, Promotor{name='Bethany Schoemaker', hometown='Merietta GA', activityPercentage=1.45}, Promotor{name='Violet Rotten', hometown='Metaire LA', activityPercentage=2.33}, Promotor{name='Amber Russo', hometown='Greenville SC', activityPercentage=2.25}, Promotor{name='Jessie Nicolls', hometown='Biloxi MS', activityPercentage=2.2}, Promotor{name='Cheryl Green', hometown='Greenville SC', activityPercentage=2.1}, Promotor{name='Michelle Stegall', hometown='Monroe LA', activityPercentage=2.0}], overallActivityPercentage=1.920769230769231}
+Nonprofits{name='Zebra Admiration Members', acronym='ZAM', number of promotors= 18, promotors=[Promotor{name='Elizabeth Welton', hometown='McGehee AR', activityPercentage=1.87}, Promotor{name='Ruby Capwell', hometown='Middleton TN', activityPercentage=1.4}, Promotor{name='Brittany Linn', hometown='Kosciusko MS', activityPercentage=3.83}, Promotor{name='Jessie Hersh', hometown='Merietta GA', activityPercentage=3.6}, Promotor{name='Terri Smith', hometown='Alpharetta GA', activityPercentage=3.95}, Promotor{name='Kristen Gavin', hometown='Huntsville AL', activityPercentage=3.5}, Promotor{name='Bethany Qwen', hometown='Saltillo MS', activityPercentage=2.88}, Promotor{name='Stephanie Hillman', hometown='Bartlett TN', activityPercentage=3.15}, Promotor{name='Teresa Pendleton', hometown='Fulton MS', activityPercentage=2.9}, Promotor{name='Rita Coldbeck', hometown='Pasadena CA', activityPercentage=2.95}, Promotor{name='Teri Mayor', hometown='Baton Rouge LA', activityPercentage=3.8}, Promotor{name='Vivian Trumbo', hometown='Holly Springs MS', activityPercentage=3.3}, Promotor{name='Jamie Shiver', hometown='Tupelo MS', activityPercentage=3.1}, Promotor{name='Michelle Aycook', hometown='Carthage MS', activityPercentage=3.25}, Promotor{name='Rosemary Cowart', hometown='Baton Rouge LA', activityPercentage=3.8}, Promotor{name='Clara Nutt', hometown='Carlisle AR', activityPercentage=3.2}, Promotor{name='Mary Rigney', hometown='Arlington TX', activityPercentage=2.95}, Promotor{name='Ruby Edkins', hometown='Destin FL', activityPercentage=3.9}], overallActivityPercentage=3.1849999999999996}
+Nonprofits{name='Zoo Nation', acronym='ZN', number of promotors= 7, promotors=[Promotor{name='Jennifer Jones', hometown='Greenville MS', activityPercentage=3.92}, Promotor{name='Roberta Sokol', hometown='Tupelo MS', activityPercentage=3.66}, Promotor{name='Mary Finerty', hometown='Florence AL', activityPercentage=3.78}, Promotor{name='Amanda Flanders', hometown='Walnut Grove MS', activityPercentage=3.88}, Promotor{name='Vicki Ozwalt', hometown='Memphis TN', activityPercentage=3.9}, Promotor{name='Amber Longston', hometown='Canton MS', activityPercentage=3.99}, Promotor{name='Carolyn Deer', hometown='Oxford MS', activityPercentage=4.0}], overallActivityPercentage=3.875714285714285}
+Nonprofits{name='I Heart Yorkies', acronym='IHY', number of promotors= 15, promotors=[Promotor{name='Patricia Abbot', hometown='Batesville MS', activityPercentage=3.15}, Promotor{name='Heather Newcomb', hometown='Vicksburg MS', activityPercentage=3.8}, Promotor{name='Thersa Cleveland', hometown='Biloxi MS', activityPercentage=2.95}, Promotor{name='Robin Frame', hometown='Whiteville TN', activityPercentage=3.95}, Promotor{name='Mary Elizabeth Trump', hometown='Tyler TX', activityPercentage=3.83}, Promotor{name='Carrie Keener', hometown='Bartlett TN', activityPercentage=3.4}, Promotor{name='Lucy Johnson', hometown='Newman GA', activityPercentage=3.5}, Promotor{name='Beatrice Denton', hometown='Houston MS', activityPercentage=3.6}, Promotor{name='Sarah Newberry', hometown='Batesville MS', activityPercentage=2.95}, Promotor{name='Carolyn Olive', hometown='Paris MS', activityPercentage=3.8}, Promotor{name='Monica Sneed', hometown='Memphis TN', activityPercentage=3.3}, Promotor{name='Kathlyn Williams', hometown='Gulport MS', activityPercentage=3.1}, Promotor{name='Suzanne Michael', hometown='Merietta GA', activityPercentage=3.25}, Promotor{name='Charlotte Fort', hometown='Newton MS', activityPercentage=3.2}, Promotor{name='Tina Fonda', hometown='Memphis TN', activityPercentage=3.9}], overallActivityPercentage=3.445333333333333}
+Nonprofits{name='International Kids Movement', acronym='IKM', number of promotors= 20, promotors=[Promotor{name='Elizabeth Harris', hometown='Madison MS', activityPercentage=3.1}, Promotor{name='Jennifer Paden', hometown='Bruce MS', activityPercentage=3.3}, Promotor{name='Jessica Egner', hometown='Walnut Grove MS', activityPercentage=2.87}, Promotor{name='Sharon Kerr', hometown='Slidell LA', activityPercentage=2.8}, Promotor{name='Cheryl Downs', hometown='Canton MS', activityPercentage=2.69}, Promotor{name='Smantha Kell', hometown='Irving TX', activityPercentage=2.88}, Promotor{name='Susanne Symons', hometown='Santa Barbara CA', activityPercentage=3.6}, Promotor{name='Lisa Hadfield', hometown='Forest MS', activityPercentage=3.15}, Promotor{name='Kimberly Clark', hometown='Corinth MS', activityPercentage=2.8}, Promotor{name='Alice Cooper', hometown='Red Bay AL', activityPercentage=2.9}, Promotor{name='Laura Dunphy', hometown='Madison MS', activityPercentage=2.95}, Promotor{name='Sheila Rick', hometown='Carlisle AR', activityPercentage=3.5}, Promotor{name='Jessica Bryant', hometown='Chattanooga TN', activityPercentage=2.95}, Promotor{name='Mary Carver', hometown='Picayune MS', activityPercentage=2.95}, Promotor{name='Nancy Vanzant', hometown='Tyler TX', activityPercentage=3.4}, Promotor{name='Elizabeth Redman', hometown='Forest MS', activityPercentage=2.7}, Promotor{name='Tonya Sheard', hometown='Olive Branch MS', activityPercentage=2.8}, Promotor{name='Brittany Kurz', hometown='Cookeville TN', activityPercentage=2.83}, Promotor{name='Juanita Sloop', hometown='Vicksburg MS', activityPercentage=3.25}, Promotor{name='Lisa Deeds', hometown='Germantown TN', activityPercentage=3.2}], overallActivityPercentage=3.031}
+Nonprofits{name='Mothers Against Hate', acronym='MAH', number of promotors= 8, promotors=[Promotor{name='Mary Moore', hometown='Huntsville AL', activityPercentage=3.99}, Promotor{name='Mary Jane Smith', hometown='Coffeeville MS', activityPercentage=4.0}, Promotor{name='Charlotte Garza', hometown='Germantown TN', activityPercentage=3.86}, Promotor{name='Danielle Lantz', hometown='Water Valley MS', activityPercentage=3.56}, Promotor{name='Virginia James', hometown='Germantown TN', activityPercentage=3.8}, Promotor{name='Cynthia Turngate', hometown='LaGrange GA', activityPercentage=3.45}, Promotor{name='Amanda Lombard', hometown='Alexandria LA', activityPercentage=3.75}, Promotor{name='Melissa Ashby', hometown='Tuscaloosa AL', activityPercentage=3.79}], overallActivityPercentage=3.775}
+Nonprofits{name='Organization of Happiness', acronym='OH', number of promotors= 10, promotors=[Promotor{name='Sarah Lopez', hometown='Dallas TX', activityPercentage=2.0}, Promotor{name='Mary Elizabeth Johnson', hometown='Clarksdale MS', activityPercentage=2.2}, Promotor{name='Melissa Long', hometown='Vero Beach FL', activityPercentage=2.1}, Promotor{name='Laura Martin', hometown='Little Rock AR', activityPercentage=2.45}, Promotor{name='Kimberly McKinnon', hometown='Pope MS', activityPercentage=2.25}, Promotor{name='Deborah Isaacs', hometown='Lewisburg MS', activityPercentage=2.05}, Promotor{name='Melissa Johnson', hometown='Independence MS', activityPercentage=1.5}, Promotor{name='Valeria Knight', hometown='Fort Worth TX', activityPercentage=1.33}, Promotor{name='Monica Hooks', hometown='Pascagoula MS', activityPercentage=1.22}, Promotor{name='Nancy Youngblood', hometown='Metaire LA', activityPercentage=1.75}], overallActivityPercentage=1.8850000000000002}
+Nonprofits{name='People Encouraging Kindness', acronym='PEK', number of promotors= 20, promotors=[Promotor{name='Carol Turner', hometown='Sarasota FL', activityPercentage=0.1}, Promotor{name='Maria Hernandez', hometown='Hernando MS', activityPercentage=0.95}, Promotor{name='Nancy Wade', hometown='Little Rock AR', activityPercentage=0.5}, Promotor{name='Carolyn Love', hometown='Metaire LA', activityPercentage=0.69}, Promotor{name='Monica Inman', hometown='Pascagoula MS', activityPercentage=1.88}, Promotor{name='Bethany Denny', hometown='Biloxi MS', activityPercentage=0.75}, Promotor{name='Cathy Ayers', hometown='Madison MS', activityPercentage=1.75}, Promotor{name='Rhonda McMillan', hometown='Pascagoula MS', activityPercentage=0.6}, Promotor{name='Elizabeth Heard', hometown='Amory MS', activityPercentage=1.5}, Promotor{name='Deborah Truitt', hometown='Tupelo MS', activityPercentage=1.95}, Promotor{name='Victoria Willcox', hometown='Amory MS', activityPercentage=0.65}, Promotor{name='Esther Young', hometown='Ripley MS', activityPercentage=1.8}, Promotor{name='Sarah Lentz', hometown='Vero Beach FL', activityPercentage=0.7}, Promotor{name='Tara Quinlan', hometown='Destin FL', activityPercentage=0.87}, Promotor{name='Kim Graves', hometown='Hernando MS', activityPercentage=0.83}, Promotor{name='Danielle Medina', hometown='Mobile AL', activityPercentage=0.8}, Promotor{name='Carol Yates', hometown='Carthage MS', activityPercentage=0.8}, Promotor{name='Yolanda Elton', hometown='Horn Lake MS', activityPercentage=0.25}, Promotor{name='Amy Ivy', hometown='Germantown TN', activityPercentage=0.3}, Promotor{name='Amanda Longwell', hometown='Tyler TX', activityPercentage=0.2}], overallActivityPercentage=0.8934999999999998}
+Nonprofits{name='Tomorrow's Organized People', acronym='TOP', number of promotors= 21, promotors=[Promotor{name='Linda Brookman', hometown='Senatobia MS', activityPercentage=2.87}, Promotor{name='Margaret Paddington', hometown='Okolona MS', activityPercentage=3.8}, Promotor{name='Laura Taft', hometown='Kosciusko MS', activityPercentage=3.8}, Promotor{name='Amanda Oden', hometown='Gulport MS', activityPercentage=2.7}, Promotor{name='Tina Enright', hometown='Mobile AL', activityPercentage=2.95}, Promotor{name='Nancy Upton', hometown='Oxford MS', activityPercentage=2.69}, Promotor{name='Carol Vail', hometown='Destin FL', activityPercentage=2.88}, Promotor{name='Cynthia Mullin', hometown='Gulport MS', activityPercentage=2.6}, Promotor{name='Thersa Ridgeland', hometown='Oxford MS', activityPercentage=3.15}, Promotor{name='Brenda Johnston', hometown='Mobile AL', activityPercentage=3.5}, Promotor{name='Katie Sheppard', hometown='Charlotte NC', activityPercentage=3.95}, Promotor{name='Pamela Reyes', hometown='Corinth MS', activityPercentage=2.95}, Promotor{name='Robin Zellar', hometown='Kosciusko MS', activityPercentage=3.4}, Promotor{name='Valerie Upton', hometown='Ashland MS', activityPercentage=2.8}, Promotor{name='Virginia Redman', hometown='Pasadena CA', activityPercentage=3.3}, Promotor{name='Charlotte Hoffman', hometown='Monroe LA', activityPercentage=2.83}, Promotor{name='Stacey Peavy', hometown='Cleveland TN', activityPercentage=2.9}, Promotor{name='Cathy Kilroy', hometown='Bartlett TN', activityPercentage=3.1}, Promotor{name='Laura Fitzpatrick', hometown='Tupelo MS', activityPercentage=3.25}, Promotor{name='Robin Goodspeed', hometown='Bartlett TN', activityPercentage=3.2}, Promotor{name='Thersa Cronk', hometown='Tupelo MS', activityPercentage=3.9}], overallActivityPercentage=3.1676190476190476}
+Nonprofits{name='Youth Network Opposing Tabacco', acronym='YNOT', number of promotors= 15, promotors=[Promotor{name='Patricia Carter', hometown='Tunica MS', activityPercentage=2.35}, Promotor{name='Karen Adams', hometown='Tupelo MS', activityPercentage=2.22}, Promotor{name='Carol Uber', hometown='Crystal Springs MS', activityPercentage=2.45}, Promotor{name='Melissa Appel', hometown='Picayune MS', activityPercentage=2.33}, Promotor{name='Lisa Toney', hometown='Tuscaloosa AL', activityPercentage=2.25}, Promotor{name='Elizabeth Mason', hometown='Florence AL', activityPercentage=2.2}, Promotor{name='Stacey Kingman', hometown='Vicksburg MS', activityPercentage=2.3}, Promotor{name='Jess Langdon', hometown='Tuscaloosa AL', activityPercentage=2.45}, Promotor{name='Stephanie Tide', hometown='Aberdeen MS', activityPercentage=2.5}, Promotor{name='Carolyn Tracey', hometown='Walnut MS', activityPercentage=2.75}, Promotor{name='Charlene Overton', hometown='Senatobia MS', activityPercentage=2.28}, Promotor{name='Janet Parent', hometown='Florence AL', activityPercentage=2.49}, Promotor{name='Rhonda Borden', hometown='Oxford MS', activityPercentage=2.65}, Promotor{name='Hazle Joyce', hometown='Senatobia MS', activityPercentage=2.5}, Promotor{name='Tiffany Rodgers', hometown='Oxford MS', activityPercentage=2.7}], overallActivityPercentage=2.428}
+Nonprofits{name='Xtremely Together', acronym='XT', number of promotors= 17, promotors=[Promotor{name='Nancy Scott', hometown='Mobile AL', activityPercentage=2.5}, Promotor{name='Barbara Howland', hometown='Webb MS', activityPercentage=2.75}, Promotor{name='Amy Shoop', hometown='Jasper AL', activityPercentage=2.4}, Promotor{name='Rhonda Horford', hometown='Carlisle AR', activityPercentage=2.45}, Promotor{name='Vicki Israel', hometown='Chattanooga TN', activityPercentage=2.8}, Promotor{name='Deborah Otto', hometown='Charlotte NC', activityPercentage=2.83}, Promotor{name='Monique Seabolt', hometown='Hazlehurst MS', activityPercentage=2.5}, Promotor{name='Amy Mock', hometown='Carthage MS', activityPercentage=2.6}, Promotor{name='Christina Upson', hometown='Hernando MS', activityPercentage=2.95}, Promotor{name='Shannon Attwood', hometown='Tyler TX', activityPercentage=2.75}, Promotor{name='Lindsey Voos', hometown='Arlington TX', activityPercentage=2.28}, Promotor{name='Robin Sing', hometown='Alpharetta GA', activityPercentage=2.49}, Promotor{name='Stacey Lodge', hometown='Slidell LA', activityPercentage=2.65}, Promotor{name='Brittany Felder', hometown='Irving TX', activityPercentage=2.55}, Promotor{name='Katie Haydon', hometown='Southaven MS', activityPercentage=2.7}, Promotor{name='Joanna Hunt', hometown='Newman GA', activityPercentage=2.87}, Promotor{name='Janet Duval', hometown='Vero Beach FL', activityPercentage=3.0}], overallActivityPercentage=2.6511764705882355}
+Animal Brigade receives award 2. With an overall activity percentage of: 2.46
+Better Environmental Health receives award 3. With an overall activity percentage of: 1.9207692307692308
+Zebra Admiration Members receives award 1. With an overall activity percentage of: 3.185
+Zoo Nation receives award 1. With an overall activity percentage of: 3.875714285714286
+I Heart Yorkies receives award 1. With an overall activity percentage of: 3.4453333333333327
+International Kids Movement receives award 1. With an overall activity percentage of: 3.031
+Mothers Against Hate receives award 1. With an overall activity percentage of: 3.7750000000000004
+Organization of Happiness receives award 3. With an overall activity percentage of: 1.8849999999999998
+People Encouraging Kindness receives award 4. With an overall activity percentage of: 0.8934999999999998
+Tomorrow's Organized People receives award 1. With an overall activity percentage of: 3.1676190476190467
+Youth Network Opposing Tabacco receives award 2. With an overall activity percentage of: 2.428
+Xtremely Together receives award 2. With an overall activity percentage of: 2.6511764705882355
+Animal Brigade
+Promotor{name='Linda Collins', hometown='Senatobia MS', activityPercentage=1.65}
+Promotor{name='Susan Gonzalez', hometown='Memphis TN', activityPercentage=2.33}
+Promotor{name='Michelle Boal', hometown='Madison MS', activityPercentage=2.95}
+Promotor{name='Katie Jacobson', hometown='Arlington TX', activityPercentage=2.4}
+Promotor{name='Beth Clayburn', hometown='Hendersonville NC', activityPercentage=2.3}
+Promotor{name='Kathleen Richards', hometown='Guntown MS', activityPercentage=2.45}
+Promotor{name='Diane Lang', hometown='Irving TX', activityPercentage=2.45}
+Promotor{name='Melissa Janke', hometown='Memphis TN', activityPercentage=2.8}
+Promotor{name='Tamara Wright', hometown='Newton MS', activityPercentage=2.35}
+Promotor{name='Kimberly Chavez', hometown='Oxford MS', activityPercentage=2.5}
+Promotor{name='Puala Dill', hometown='Vicksburg MS', activityPercentage=2.75}
+Promotor{name='Yvonne Button', hometown='Shreveport LA', activityPercentage=2.28}
+Promotor{name='Eva	Bridge', hometown='Chattanooga TN', activityPercentage=2.49}
+Promotor{name='Laura Cassady', hometown='LaGrange GA', activityPercentage=2.7}
+Promotor{name='Carol Smith', hometown='Biloxi MS', activityPercentage=2.5}
+Animal Brigade
+Promotor{name='Linda Collins', hometown='Senatobia MS', activityPercentage=1.65}
+Promotor{name='Yvonne Button', hometown='Shreveport LA', activityPercentage=2.28}
+Promotor{name='Beth Clayburn', hometown='Hendersonville NC', activityPercentage=2.3}
+Promotor{name='Susan Gonzalez', hometown='Memphis TN', activityPercentage=2.33}
+Promotor{name='Tamara Wright', hometown='Newton MS', activityPercentage=2.35}
+Promotor{name='Katie Jacobson', hometown='Arlington TX', activityPercentage=2.4}
+Promotor{name='Kathleen Richards', hometown='Guntown MS', activityPercentage=2.45}
+Promotor{name='Diane Lang', hometown='Irving TX', activityPercentage=2.45}
+Promotor{name='Eva	Bridge', hometown='Chattanooga TN', activityPercentage=2.49}
+Promotor{name='Kimberly Chavez', hometown='Oxford MS', activityPercentage=2.5}
+Promotor{name='Carol Smith', hometown='Biloxi MS', activityPercentage=2.5}
+Promotor{name='Laura Cassady', hometown='LaGrange GA', activityPercentage=2.7}
+Promotor{name='Puala Dill', hometown='Vicksburg MS', activityPercentage=2.75}
+Promotor{name='Melissa Janke', hometown='Memphis TN', activityPercentage=2.8}
+Promotor{name='Michelle Boal', hometown='Madison MS', activityPercentage=2.95}
+Better Environmental Health
+Promotor{name='Donna Perez', hometown='Gainesville FL', activityPercentage=1.05}
+Promotor{name='Helen Baker', hometown='Baton Rouge LA', activityPercentage=1.5}
+Promotor{name='Jacqueline Kilmer', hometown='Hazlehurst MS', activityPercentage=1.75}
+Promotor{name='Amber Jacobs', hometown='Clarksdale MS', activityPercentage=2.28}
+Promotor{name='Pam Pendleton', hometown='Baldwyn MS', activityPercentage=1.65}
+Promotor{name='Sarah Michaels', hometown='LaGrange GA', activityPercentage=2.22}
+Promotor{name='Michelle Fudge', hometown='Vicksburg MS', activityPercentage=2.19}
+Promotor{name='Bethany Schoemaker', hometown='Merietta GA', activityPercentage=1.45}
+Promotor{name='Violet Rotten', hometown='Metaire LA', activityPercentage=2.33}
+Promotor{name='Amber Russo', hometown='Greenville SC', activityPercentage=2.25}
+Promotor{name='Jessie Nicolls', hometown='Biloxi MS', activityPercentage=2.2}
+Promotor{name='Cheryl Green', hometown='Greenville SC', activityPercentage=2.1}
+Promotor{name='Michelle Stegall', hometown='Monroe LA', activityPercentage=2.0}
+Better Environmental Health
+Promotor{name='Donna Perez', hometown='Gainesville FL', activityPercentage=1.05}
+Promotor{name='Bethany Schoemaker', hometown='Merietta GA', activityPercentage=1.45}
+Promotor{name='Helen Baker', hometown='Baton Rouge LA', activityPercentage=1.5}
+Promotor{name='Pam Pendleton', hometown='Baldwyn MS', activityPercentage=1.65}
+Promotor{name='Jacqueline Kilmer', hometown='Hazlehurst MS', activityPercentage=1.75}
+Promotor{name='Michelle Stegall', hometown='Monroe LA', activityPercentage=2.0}
+Promotor{name='Cheryl Green', hometown='Greenville SC', activityPercentage=2.1}
+Promotor{name='Michelle Fudge', hometown='Vicksburg MS', activityPercentage=2.19}
+Promotor{name='Jessie Nicolls', hometown='Biloxi MS', activityPercentage=2.2}
+Promotor{name='Sarah Michaels', hometown='LaGrange GA', activityPercentage=2.22}
+Promotor{name='Amber Russo', hometown='Greenville SC', activityPercentage=2.25}
+Promotor{name='Amber Jacobs', hometown='Clarksdale MS', activityPercentage=2.28}
+Promotor{name='Violet Rotten', hometown='Metaire LA', activityPercentage=2.33}
+Zebra Admiration Members
+Promotor{name='Elizabeth Welton', hometown='McGehee AR', activityPercentage=1.87}
+Promotor{name='Ruby Capwell', hometown='Middleton TN', activityPercentage=1.4}
+Promotor{name='Brittany Linn', hometown='Kosciusko MS', activityPercentage=3.83}
+Promotor{name='Jessie Hersh', hometown='Merietta GA', activityPercentage=3.6}
+Promotor{name='Terri Smith', hometown='Alpharetta GA', activityPercentage=3.95}
+Promotor{name='Kristen Gavin', hometown='Huntsville AL', activityPercentage=3.5}
+Promotor{name='Bethany Qwen', hometown='Saltillo MS', activityPercentage=2.88}
+Promotor{name='Stephanie Hillman', hometown='Bartlett TN', activityPercentage=3.15}
+Promotor{name='Teresa Pendleton', hometown='Fulton MS', activityPercentage=2.9}
+Promotor{name='Rita Coldbeck', hometown='Pasadena CA', activityPercentage=2.95}
+Promotor{name='Teri Mayor', hometown='Baton Rouge LA', activityPercentage=3.8}
+Promotor{name='Vivian Trumbo', hometown='Holly Springs MS', activityPercentage=3.3}
+Promotor{name='Jamie Shiver', hometown='Tupelo MS', activityPercentage=3.1}
+Promotor{name='Michelle Aycook', hometown='Carthage MS', activityPercentage=3.25}
+Promotor{name='Rosemary Cowart', hometown='Baton Rouge LA', activityPercentage=3.8}
+Promotor{name='Clara Nutt', hometown='Carlisle AR', activityPercentage=3.2}
+Promotor{name='Mary Rigney', hometown='Arlington TX', activityPercentage=2.95}
+Promotor{name='Ruby Edkins', hometown='Destin FL', activityPercentage=3.9}
+Zebra Admiration Members
+Promotor{name='Ruby Capwell', hometown='Middleton TN', activityPercentage=1.4}
+Promotor{name='Elizabeth Welton', hometown='McGehee AR', activityPercentage=1.87}
+Promotor{name='Bethany Qwen', hometown='Saltillo MS', activityPercentage=2.88}
+Promotor{name='Teresa Pendleton', hometown='Fulton MS', activityPercentage=2.9}
+Promotor{name='Rita Coldbeck', hometown='Pasadena CA', activityPercentage=2.95}
+Promotor{name='Mary Rigney', hometown='Arlington TX', activityPercentage=2.95}
+Promotor{name='Jamie Shiver', hometown='Tupelo MS', activityPercentage=3.1}
+Promotor{name='Stephanie Hillman', hometown='Bartlett TN', activityPercentage=3.15}
+Promotor{name='Clara Nutt', hometown='Carlisle AR', activityPercentage=3.2}
+Promotor{name='Michelle Aycook', hometown='Carthage MS', activityPercentage=3.25}
+Promotor{name='Vivian Trumbo', hometown='Holly Springs MS', activityPercentage=3.3}
+Promotor{name='Kristen Gavin', hometown='Huntsville AL', activityPercentage=3.5}
+Promotor{name='Jessie Hersh', hometown='Merietta GA', activityPercentage=3.6}
+Promotor{name='Rosemary Cowart', hometown='Baton Rouge LA', activityPercentage=3.8}
+Promotor{name='Teri Mayor', hometown='Baton Rouge LA', activityPercentage=3.8}
+Promotor{name='Brittany Linn', hometown='Kosciusko MS', activityPercentage=3.83}
+Promotor{name='Ruby Edkins', hometown='Destin FL', activityPercentage=3.9}
+Promotor{name='Terri Smith', hometown='Alpharetta GA', activityPercentage=3.95}
+Zoo Nation
+Promotor{name='Jennifer Jones', hometown='Greenville MS', activityPercentage=3.92}
+Promotor{name='Roberta Sokol', hometown='Tupelo MS', activityPercentage=3.66}
+Promotor{name='Mary Finerty', hometown='Florence AL', activityPercentage=3.78}
+Promotor{name='Amanda Flanders', hometown='Walnut Grove MS', activityPercentage=3.88}
+Promotor{name='Vicki Ozwalt', hometown='Memphis TN', activityPercentage=3.9}
+Promotor{name='Amber Longston', hometown='Canton MS', activityPercentage=3.99}
+Promotor{name='Carolyn Deer', hometown='Oxford MS', activityPercentage=4.0}
+Zoo Nation
+Promotor{name='Roberta Sokol', hometown='Tupelo MS', activityPercentage=3.66}
+Promotor{name='Mary Finerty', hometown='Florence AL', activityPercentage=3.78}
+Promotor{name='Amanda Flanders', hometown='Walnut Grove MS', activityPercentage=3.88}
+Promotor{name='Vicki Ozwalt', hometown='Memphis TN', activityPercentage=3.9}
+Promotor{name='Jennifer Jones', hometown='Greenville MS', activityPercentage=3.92}
+Promotor{name='Amber Longston', hometown='Canton MS', activityPercentage=3.99}
+Promotor{name='Carolyn Deer', hometown='Oxford MS', activityPercentage=4.0}
+I Heart Yorkies
+Promotor{name='Patricia Abbot', hometown='Batesville MS', activityPercentage=3.15}
+Promotor{name='Heather Newcomb', hometown='Vicksburg MS', activityPercentage=3.8}
+Promotor{name='Thersa Cleveland', hometown='Biloxi MS', activityPercentage=2.95}
+Promotor{name='Robin Frame', hometown='Whiteville TN', activityPercentage=3.95}
+Promotor{name='Mary Elizabeth Trump', hometown='Tyler TX', activityPercentage=3.83}
+Promotor{name='Carrie Keener', hometown='Bartlett TN', activityPercentage=3.4}
+Promotor{name='Lucy Johnson', hometown='Newman GA', activityPercentage=3.5}
+Promotor{name='Beatrice Denton', hometown='Houston MS', activityPercentage=3.6}
+Promotor{name='Sarah Newberry', hometown='Batesville MS', activityPercentage=2.95}
+Promotor{name='Carolyn Olive', hometown='Paris MS', activityPercentage=3.8}
+Promotor{name='Monica Sneed', hometown='Memphis TN', activityPercentage=3.3}
+Promotor{name='Kathlyn Williams', hometown='Gulport MS', activityPercentage=3.1}
+Promotor{name='Suzanne Michael', hometown='Merietta GA', activityPercentage=3.25}
+Promotor{name='Charlotte Fort', hometown='Newton MS', activityPercentage=3.2}
+Promotor{name='Tina Fonda', hometown='Memphis TN', activityPercentage=3.9}
+I Heart Yorkies
+Promotor{name='Thersa Cleveland', hometown='Biloxi MS', activityPercentage=2.95}
+Promotor{name='Sarah Newberry', hometown='Batesville MS', activityPercentage=2.95}
+Promotor{name='Kathlyn Williams', hometown='Gulport MS', activityPercentage=3.1}
+Promotor{name='Patricia Abbot', hometown='Batesville MS', activityPercentage=3.15}
+Promotor{name='Charlotte Fort', hometown='Newton MS', activityPercentage=3.2}
+Promotor{name='Suzanne Michael', hometown='Merietta GA', activityPercentage=3.25}
+Promotor{name='Monica Sneed', hometown='Memphis TN', activityPercentage=3.3}
+Promotor{name='Carrie Keener', hometown='Bartlett TN', activityPercentage=3.4}
+Promotor{name='Lucy Johnson', hometown='Newman GA', activityPercentage=3.5}
+Promotor{name='Beatrice Denton', hometown='Houston MS', activityPercentage=3.6}
+Promotor{name='Heather Newcomb', hometown='Vicksburg MS', activityPercentage=3.8}
+Promotor{name='Carolyn Olive', hometown='Paris MS', activityPercentage=3.8}
+Promotor{name='Mary Elizabeth Trump', hometown='Tyler TX', activityPercentage=3.83}
+Promotor{name='Tina Fonda', hometown='Memphis TN', activityPercentage=3.9}
+Promotor{name='Robin Frame', hometown='Whiteville TN', activityPercentage=3.95}
+International Kids Movement
+Promotor{name='Elizabeth Harris', hometown='Madison MS', activityPercentage=3.1}
+Promotor{name='Jennifer Paden', hometown='Bruce MS', activityPercentage=3.3}
+Promotor{name='Jessica Egner', hometown='Walnut Grove MS', activityPercentage=2.87}
+Promotor{name='Sharon Kerr', hometown='Slidell LA', activityPercentage=2.8}
+Promotor{name='Cheryl Downs', hometown='Canton MS', activityPercentage=2.69}
+Promotor{name='Smantha Kell', hometown='Irving TX', activityPercentage=2.88}
+Promotor{name='Susanne Symons', hometown='Santa Barbara CA', activityPercentage=3.6}
+Promotor{name='Lisa Hadfield', hometown='Forest MS', activityPercentage=3.15}
+Promotor{name='Kimberly Clark', hometown='Corinth MS', activityPercentage=2.8}
+Promotor{name='Alice Cooper', hometown='Red Bay AL', activityPercentage=2.9}
+Promotor{name='Laura Dunphy', hometown='Madison MS', activityPercentage=2.95}
+Promotor{name='Sheila Rick', hometown='Carlisle AR', activityPercentage=3.5}
+Promotor{name='Jessica Bryant', hometown='Chattanooga TN', activityPercentage=2.95}
+Promotor{name='Mary Carver', hometown='Picayune MS', activityPercentage=2.95}
+Promotor{name='Nancy Vanzant', hometown='Tyler TX', activityPercentage=3.4}
+Promotor{name='Elizabeth Redman', hometown='Forest MS', activityPercentage=2.7}
+Promotor{name='Tonya Sheard', hometown='Olive Branch MS', activityPercentage=2.8}
+Promotor{name='Brittany Kurz', hometown='Cookeville TN', activityPercentage=2.83}
+Promotor{name='Juanita Sloop', hometown='Vicksburg MS', activityPercentage=3.25}
+Promotor{name='Lisa Deeds', hometown='Germantown TN', activityPercentage=3.2}
+International Kids Movement
+Promotor{name='Cheryl Downs', hometown='Canton MS', activityPercentage=2.69}
+Promotor{name='Elizabeth Redman', hometown='Forest MS', activityPercentage=2.7}
+Promotor{name='Sharon Kerr', hometown='Slidell LA', activityPercentage=2.8}
+Promotor{name='Tonya Sheard', hometown='Olive Branch MS', activityPercentage=2.8}
+Promotor{name='Kimberly Clark', hometown='Corinth MS', activityPercentage=2.8}
+Promotor{name='Brittany Kurz', hometown='Cookeville TN', activityPercentage=2.83}
+Promotor{name='Jessica Egner', hometown='Walnut Grove MS', activityPercentage=2.87}
+Promotor{name='Smantha Kell', hometown='Irving TX', activityPercentage=2.88}
+Promotor{name='Alice Cooper', hometown='Red Bay AL', activityPercentage=2.9}
+Promotor{name='Laura Dunphy', hometown='Madison MS', activityPercentage=2.95}
+Promotor{name='Mary Carver', hometown='Picayune MS', activityPercentage=2.95}
+Promotor{name='Jessica Bryant', hometown='Chattanooga TN', activityPercentage=2.95}
+Promotor{name='Elizabeth Harris', hometown='Madison MS', activityPercentage=3.1}
+Promotor{name='Lisa Hadfield', hometown='Forest MS', activityPercentage=3.15}
+Promotor{name='Lisa Deeds', hometown='Germantown TN', activityPercentage=3.2}
+Promotor{name='Juanita Sloop', hometown='Vicksburg MS', activityPercentage=3.25}
+Promotor{name='Jennifer Paden', hometown='Bruce MS', activityPercentage=3.3}
+Promotor{name='Nancy Vanzant', hometown='Tyler TX', activityPercentage=3.4}
+Promotor{name='Sheila Rick', hometown='Carlisle AR', activityPercentage=3.5}
+Promotor{name='Susanne Symons', hometown='Santa Barbara CA', activityPercentage=3.6}
+Mothers Against Hate
+Promotor{name='Mary Moore', hometown='Huntsville AL', activityPercentage=3.99}
+Promotor{name='Mary Jane Smith', hometown='Coffeeville MS', activityPercentage=4.0}
+Promotor{name='Charlotte Garza', hometown='Germantown TN', activityPercentage=3.86}
+Promotor{name='Danielle Lantz', hometown='Water Valley MS', activityPercentage=3.56}
+Promotor{name='Virginia James', hometown='Germantown TN', activityPercentage=3.8}
+Promotor{name='Cynthia Turngate', hometown='LaGrange GA', activityPercentage=3.45}
+Promotor{name='Amanda Lombard', hometown='Alexandria LA', activityPercentage=3.75}
+Promotor{name='Melissa Ashby', hometown='Tuscaloosa AL', activityPercentage=3.79}
+Mothers Against Hate
+Promotor{name='Cynthia Turngate', hometown='LaGrange GA', activityPercentage=3.45}
+Promotor{name='Danielle Lantz', hometown='Water Valley MS', activityPercentage=3.56}
+Promotor{name='Amanda Lombard', hometown='Alexandria LA', activityPercentage=3.75}
+Promotor{name='Melissa Ashby', hometown='Tuscaloosa AL', activityPercentage=3.79}
+Promotor{name='Virginia James', hometown='Germantown TN', activityPercentage=3.8}
+Promotor{name='Charlotte Garza', hometown='Germantown TN', activityPercentage=3.86}
+Promotor{name='Mary Moore', hometown='Huntsville AL', activityPercentage=3.99}
+Promotor{name='Mary Jane Smith', hometown='Coffeeville MS', activityPercentage=4.0}
+Organization of Happiness
+Promotor{name='Sarah Lopez', hometown='Dallas TX', activityPercentage=2.0}
+Promotor{name='Mary Elizabeth Johnson', hometown='Clarksdale MS', activityPercentage=2.2}
+Promotor{name='Melissa Long', hometown='Vero Beach FL', activityPercentage=2.1}
+Promotor{name='Laura Martin', hometown='Little Rock AR', activityPercentage=2.45}
+Promotor{name='Kimberly McKinnon', hometown='Pope MS', activityPercentage=2.25}
+Promotor{name='Deborah Isaacs', hometown='Lewisburg MS', activityPercentage=2.05}
+Promotor{name='Melissa Johnson', hometown='Independence MS', activityPercentage=1.5}
+Promotor{name='Valeria Knight', hometown='Fort Worth TX', activityPercentage=1.33}
+Promotor{name='Monica Hooks', hometown='Pascagoula MS', activityPercentage=1.22}
+Promotor{name='Nancy Youngblood', hometown='Metaire LA', activityPercentage=1.75}
+Organization of Happiness
+Promotor{name='Monica Hooks', hometown='Pascagoula MS', activityPercentage=1.22}
+Promotor{name='Valeria Knight', hometown='Fort Worth TX', activityPercentage=1.33}
+Promotor{name='Melissa Johnson', hometown='Independence MS', activityPercentage=1.5}
+Promotor{name='Nancy Youngblood', hometown='Metaire LA', activityPercentage=1.75}
+Promotor{name='Sarah Lopez', hometown='Dallas TX', activityPercentage=2.0}
+Promotor{name='Deborah Isaacs', hometown='Lewisburg MS', activityPercentage=2.05}
+Promotor{name='Melissa Long', hometown='Vero Beach FL', activityPercentage=2.1}
+Promotor{name='Mary Elizabeth Johnson', hometown='Clarksdale MS', activityPercentage=2.2}
+Promotor{name='Kimberly McKinnon', hometown='Pope MS', activityPercentage=2.25}
+Promotor{name='Laura Martin', hometown='Little Rock AR', activityPercentage=2.45}
+People Encouraging Kindness
+Promotor{name='Carol Turner', hometown='Sarasota FL', activityPercentage=0.1}
+Promotor{name='Maria Hernandez', hometown='Hernando MS', activityPercentage=0.95}
+Promotor{name='Nancy Wade', hometown='Little Rock AR', activityPercentage=0.5}
+Promotor{name='Carolyn Love', hometown='Metaire LA', activityPercentage=0.69}
+Promotor{name='Monica Inman', hometown='Pascagoula MS', activityPercentage=1.88}
+Promotor{name='Bethany Denny', hometown='Biloxi MS', activityPercentage=0.75}
+Promotor{name='Cathy Ayers', hometown='Madison MS', activityPercentage=1.75}
+Promotor{name='Rhonda McMillan', hometown='Pascagoula MS', activityPercentage=0.6}
+Promotor{name='Elizabeth Heard', hometown='Amory MS', activityPercentage=1.5}
+Promotor{name='Deborah Truitt', hometown='Tupelo MS', activityPercentage=1.95}
+Promotor{name='Victoria Willcox', hometown='Amory MS', activityPercentage=0.65}
+Promotor{name='Esther Young', hometown='Ripley MS', activityPercentage=1.8}
+Promotor{name='Sarah Lentz', hometown='Vero Beach FL', activityPercentage=0.7}
+Promotor{name='Tara Quinlan', hometown='Destin FL', activityPercentage=0.87}
+Promotor{name='Kim Graves', hometown='Hernando MS', activityPercentage=0.83}
+Promotor{name='Danielle Medina', hometown='Mobile AL', activityPercentage=0.8}
+Promotor{name='Carol Yates', hometown='Carthage MS', activityPercentage=0.8}
+Promotor{name='Yolanda Elton', hometown='Horn Lake MS', activityPercentage=0.25}
+Promotor{name='Amy Ivy', hometown='Germantown TN', activityPercentage=0.3}
+Promotor{name='Amanda Longwell', hometown='Tyler TX', activityPercentage=0.2}
+People Encouraging Kindness
+Promotor{name='Carol Turner', hometown='Sarasota FL', activityPercentage=0.1}
+Promotor{name='Amanda Longwell', hometown='Tyler TX', activityPercentage=0.2}
+Promotor{name='Yolanda Elton', hometown='Horn Lake MS', activityPercentage=0.25}
+Promotor{name='Amy Ivy', hometown='Germantown TN', activityPercentage=0.3}
+Promotor{name='Nancy Wade', hometown='Little Rock AR', activityPercentage=0.5}
+Promotor{name='Rhonda McMillan', hometown='Pascagoula MS', activityPercentage=0.6}
+Promotor{name='Victoria Willcox', hometown='Amory MS', activityPercentage=0.65}
+Promotor{name='Carolyn Love', hometown='Metaire LA', activityPercentage=0.69}
+Promotor{name='Sarah Lentz', hometown='Vero Beach FL', activityPercentage=0.7}
+Promotor{name='Bethany Denny', hometown='Biloxi MS', activityPercentage=0.75}
+Promotor{name='Danielle Medina', hometown='Mobile AL', activityPercentage=0.8}
+Promotor{name='Carol Yates', hometown='Carthage MS', activityPercentage=0.8}
+Promotor{name='Kim Graves', hometown='Hernando MS', activityPercentage=0.83}
+Promotor{name='Tara Quinlan', hometown='Destin FL', activityPercentage=0.87}
+Promotor{name='Maria Hernandez', hometown='Hernando MS', activityPercentage=0.95}
+Promotor{name='Elizabeth Heard', hometown='Amory MS', activityPercentage=1.5}
+Promotor{name='Cathy Ayers', hometown='Madison MS', activityPercentage=1.75}
+Promotor{name='Esther Young', hometown='Ripley MS', activityPercentage=1.8}
+Promotor{name='Monica Inman', hometown='Pascagoula MS', activityPercentage=1.88}
+Promotor{name='Deborah Truitt', hometown='Tupelo MS', activityPercentage=1.95}
+Tomorrow's Organized People
+Promotor{name='Linda Brookman', hometown='Senatobia MS', activityPercentage=2.87}
+Promotor{name='Margaret Paddington', hometown='Okolona MS', activityPercentage=3.8}
+Promotor{name='Laura Taft', hometown='Kosciusko MS', activityPercentage=3.8}
+Promotor{name='Amanda Oden', hometown='Gulport MS', activityPercentage=2.7}
+Promotor{name='Tina Enright', hometown='Mobile AL', activityPercentage=2.95}
+Promotor{name='Nancy Upton', hometown='Oxford MS', activityPercentage=2.69}
+Promotor{name='Carol Vail', hometown='Destin FL', activityPercentage=2.88}
+Promotor{name='Cynthia Mullin', hometown='Gulport MS', activityPercentage=2.6}
+Promotor{name='Thersa Ridgeland', hometown='Oxford MS', activityPercentage=3.15}
+Promotor{name='Brenda Johnston', hometown='Mobile AL', activityPercentage=3.5}
+Promotor{name='Katie Sheppard', hometown='Charlotte NC', activityPercentage=3.95}
+Promotor{name='Pamela Reyes', hometown='Corinth MS', activityPercentage=2.95}
+Promotor{name='Robin Zellar', hometown='Kosciusko MS', activityPercentage=3.4}
+Promotor{name='Valerie Upton', hometown='Ashland MS', activityPercentage=2.8}
+Promotor{name='Virginia Redman', hometown='Pasadena CA', activityPercentage=3.3}
+Promotor{name='Charlotte Hoffman', hometown='Monroe LA', activityPercentage=2.83}
+Promotor{name='Stacey Peavy', hometown='Cleveland TN', activityPercentage=2.9}
+Promotor{name='Cathy Kilroy', hometown='Bartlett TN', activityPercentage=3.1}
+Promotor{name='Laura Fitzpatrick', hometown='Tupelo MS', activityPercentage=3.25}
+Promotor{name='Robin Goodspeed', hometown='Bartlett TN', activityPercentage=3.2}
+Promotor{name='Thersa Cronk', hometown='Tupelo MS', activityPercentage=3.9}
+Tomorrow's Organized People
+Promotor{name='Cynthia Mullin', hometown='Gulport MS', activityPercentage=2.6}
+Promotor{name='Nancy Upton', hometown='Oxford MS', activityPercentage=2.69}
+Promotor{name='Amanda Oden', hometown='Gulport MS', activityPercentage=2.7}
+Promotor{name='Valerie Upton', hometown='Ashland MS', activityPercentage=2.8}
+Promotor{name='Charlotte Hoffman', hometown='Monroe LA', activityPercentage=2.83}
+Promotor{name='Linda Brookman', hometown='Senatobia MS', activityPercentage=2.87}
+Promotor{name='Carol Vail', hometown='Destin FL', activityPercentage=2.88}
+Promotor{name='Stacey Peavy', hometown='Cleveland TN', activityPercentage=2.9}
+Promotor{name='Pamela Reyes', hometown='Corinth MS', activityPercentage=2.95}
+Promotor{name='Tina Enright', hometown='Mobile AL', activityPercentage=2.95}
+Promotor{name='Cathy Kilroy', hometown='Bartlett TN', activityPercentage=3.1}
+Promotor{name='Thersa Ridgeland', hometown='Oxford MS', activityPercentage=3.15}
+Promotor{name='Robin Goodspeed', hometown='Bartlett TN', activityPercentage=3.2}
+Promotor{name='Laura Fitzpatrick', hometown='Tupelo MS', activityPercentage=3.25}
+Promotor{name='Virginia Redman', hometown='Pasadena CA', activityPercentage=3.3}
+Promotor{name='Robin Zellar', hometown='Kosciusko MS', activityPercentage=3.4}
+Promotor{name='Brenda Johnston', hometown='Mobile AL', activityPercentage=3.5}
+Promotor{name='Margaret Paddington', hometown='Okolona MS', activityPercentage=3.8}
+Promotor{name='Laura Taft', hometown='Kosciusko MS', activityPercentage=3.8}
+Promotor{name='Thersa Cronk', hometown='Tupelo MS', activityPercentage=3.9}
+Promotor{name='Katie Sheppard', hometown='Charlotte NC', activityPercentage=3.95}
+Youth Network Opposing Tabacco
+Promotor{name='Patricia Carter', hometown='Tunica MS', activityPercentage=2.35}
+Promotor{name='Karen Adams', hometown='Tupelo MS', activityPercentage=2.22}
+Promotor{name='Carol Uber', hometown='Crystal Springs MS', activityPercentage=2.45}
+Promotor{name='Melissa Appel', hometown='Picayune MS', activityPercentage=2.33}
+Promotor{name='Lisa Toney', hometown='Tuscaloosa AL', activityPercentage=2.25}
+Promotor{name='Elizabeth Mason', hometown='Florence AL', activityPercentage=2.2}
+Promotor{name='Stacey Kingman', hometown='Vicksburg MS', activityPercentage=2.3}
+Promotor{name='Jess Langdon', hometown='Tuscaloosa AL', activityPercentage=2.45}
+Promotor{name='Stephanie Tide', hometown='Aberdeen MS', activityPercentage=2.5}
+Promotor{name='Carolyn Tracey', hometown='Walnut MS', activityPercentage=2.75}
+Promotor{name='Charlene Overton', hometown='Senatobia MS', activityPercentage=2.28}
+Promotor{name='Janet Parent', hometown='Florence AL', activityPercentage=2.49}
+Promotor{name='Rhonda Borden', hometown='Oxford MS', activityPercentage=2.65}
+Promotor{name='Hazle Joyce', hometown='Senatobia MS', activityPercentage=2.5}
+Promotor{name='Tiffany Rodgers', hometown='Oxford MS', activityPercentage=2.7}
+Youth Network Opposing Tabacco
+Promotor{name='Elizabeth Mason', hometown='Florence AL', activityPercentage=2.2}
+Promotor{name='Karen Adams', hometown='Tupelo MS', activityPercentage=2.22}
+Promotor{name='Lisa Toney', hometown='Tuscaloosa AL', activityPercentage=2.25}
+Promotor{name='Charlene Overton', hometown='Senatobia MS', activityPercentage=2.28}
+Promotor{name='Stacey Kingman', hometown='Vicksburg MS', activityPercentage=2.3}
+Promotor{name='Melissa Appel', hometown='Picayune MS', activityPercentage=2.33}
+Promotor{name='Patricia Carter', hometown='Tunica MS', activityPercentage=2.35}
+Promotor{name='Carol Uber', hometown='Crystal Springs MS', activityPercentage=2.45}
+Promotor{name='Jess Langdon', hometown='Tuscaloosa AL', activityPercentage=2.45}
+Promotor{name='Janet Parent', hometown='Florence AL', activityPercentage=2.49}
+Promotor{name='Stephanie Tide', hometown='Aberdeen MS', activityPercentage=2.5}
+Promotor{name='Hazle Joyce', hometown='Senatobia MS', activityPercentage=2.5}
+Promotor{name='Rhonda Borden', hometown='Oxford MS', activityPercentage=2.65}
+Promotor{name='Tiffany Rodgers', hometown='Oxford MS', activityPercentage=2.7}
+Promotor{name='Carolyn Tracey', hometown='Walnut MS', activityPercentage=2.75}
+Xtremely Together
+Promotor{name='Nancy Scott', hometown='Mobile AL', activityPercentage=2.5}
+Promotor{name='Barbara Howland', hometown='Webb MS', activityPercentage=2.75}
+Promotor{name='Amy Shoop', hometown='Jasper AL', activityPercentage=2.4}
+Promotor{name='Rhonda Horford', hometown='Carlisle AR', activityPercentage=2.45}
+Promotor{name='Vicki Israel', hometown='Chattanooga TN', activityPercentage=2.8}
+Promotor{name='Deborah Otto', hometown='Charlotte NC', activityPercentage=2.83}
+Promotor{name='Monique Seabolt', hometown='Hazlehurst MS', activityPercentage=2.5}
+Promotor{name='Amy Mock', hometown='Carthage MS', activityPercentage=2.6}
+Promotor{name='Christina Upson', hometown='Hernando MS', activityPercentage=2.95}
+Promotor{name='Shannon Attwood', hometown='Tyler TX', activityPercentage=2.75}
+Promotor{name='Lindsey Voos', hometown='Arlington TX', activityPercentage=2.28}
+Promotor{name='Robin Sing', hometown='Alpharetta GA', activityPercentage=2.49}
+Promotor{name='Stacey Lodge', hometown='Slidell LA', activityPercentage=2.65}
+Promotor{name='Brittany Felder', hometown='Irving TX', activityPercentage=2.55}
+Promotor{name='Katie Haydon', hometown='Southaven MS', activityPercentage=2.7}
+Promotor{name='Joanna Hunt', hometown='Newman GA', activityPercentage=2.87}
+Promotor{name='Janet Duval', hometown='Vero Beach FL', activityPercentage=3.0}
+Xtremely Together
+Promotor{name='Lindsey Voos', hometown='Arlington TX', activityPercentage=2.28}
+Promotor{name='Amy Shoop', hometown='Jasper AL', activityPercentage=2.4}
+Promotor{name='Rhonda Horford', hometown='Carlisle AR', activityPercentage=2.45}
+Promotor{name='Robin Sing', hometown='Alpharetta GA', activityPercentage=2.49}
+Promotor{name='Monique Seabolt', hometown='Hazlehurst MS', activityPercentage=2.5}
+Promotor{name='Nancy Scott', hometown='Mobile AL', activityPercentage=2.5}
+Promotor{name='Brittany Felder', hometown='Irving TX', activityPercentage=2.55}
+Promotor{name='Amy Mock', hometown='Carthage MS', activityPercentage=2.6}
+Promotor{name='Stacey Lodge', hometown='Slidell LA', activityPercentage=2.65}
+Promotor{name='Katie Haydon', hometown='Southaven MS', activityPercentage=2.7}
+Promotor{name='Barbara Howland', hometown='Webb MS', activityPercentage=2.75}
+Promotor{name='Shannon Attwood', hometown='Tyler TX', activityPercentage=2.75}
+Promotor{name='Vicki Israel', hometown='Chattanooga TN', activityPercentage=2.8}
+Promotor{name='Deborah Otto', hometown='Charlotte NC', activityPercentage=2.83}
+Promotor{name='Joanna Hunt', hometown='Newman GA', activityPercentage=2.87}
+Promotor{name='Christina Upson', hometown='Hernando MS', activityPercentage=2.95}
+Promotor{name='Janet Duval', hometown='Vero Beach FL', activityPercentage=3.0}
+Welcome
+
+Sorted
+
+Goodbye
